@@ -1,0 +1,10 @@
+{
+  "name": "travel-app-be",
+  "version": "1.0.0",
+  "description": "Backend part of RSS travel app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "license": "MIT"
+}
