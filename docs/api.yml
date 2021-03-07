@@ -136,10 +136,11 @@ paths:
           name: locale
           schema:
             type: string
-            default: en_US
+            default: en
             enum:
-              - en_US
-              - ru_RU
+              - en
+              - ru
+              - uk
       responses:
         '200':
           description: OK
