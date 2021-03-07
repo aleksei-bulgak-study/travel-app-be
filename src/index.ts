@@ -1,4 +1,4 @@
-import express from 'express';
+import express, { Request, Response } from 'express';
 
 import configs from './config';
 import errorHandler from './middleware/errorHandlingMiddleware';
@@ -18,11 +18,15 @@ app.use(SwaggerRouter);
 
 app.use('/countries', CountryRouter(countryService), SightRouter(countryService, sightsService));
 app.use('/users', UserRouter(userService));
+app.use('*', (req: Request, res: Response): void => {
+  res.status(404).json({ message: `Page not found for url ${req.originalUrl}` });
+});
 
 app.use(errorHandler);
 
-app.listen(process.env['PORT'] || 3000, () => {
-  console.log(`starting application at port ${process.env['PORT']}`)
+const port = process.env['PORT'] || 3000;
+app.listen(port, () => {
+  console.log(`starting application at port ${port}`);
 });
 
 process.on('uncaughtException', (err) => {
