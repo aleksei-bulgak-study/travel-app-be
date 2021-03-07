@@ -41,6 +41,28 @@ const UserRouter = (userService: UserService): Router => {
       response.status(200).json(updatedUser);
     })
   );
+
+  router.post(
+    '/:username',
+    asyncMiddleware(async (request: Request, response: Response) => {
+      console.log(request.files)
+      const logoBuffer = request.files ? request.files['logo'] : undefined;
+      if (!logoBuffer || Array.isArray(logoBuffer)) {
+        throw new ServerError(400, 'Failed to process image upload');
+      }
+
+      const { username } = request.params;
+      if (!username) {
+        throw new ServerError(400, 'Invalid username was provided');
+      }
+      const user = await userService.getUser(username);
+      user.logo = logoBuffer.data.toString('base64');
+      await userService.updateUser(user);
+
+      response.status(200).json(user);
+    })
+  );
+
   router.post(
     '/',
     asyncMiddleware(async (request: Request, response: Response) => {

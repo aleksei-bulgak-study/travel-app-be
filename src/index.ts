@@ -1,4 +1,5 @@
 import express, { Request, Response } from 'express';
+import fileUpload from 'express-fileupload';
 
 import configs from './config';
 import errorHandler from './middleware/errorHandlingMiddleware';
@@ -14,6 +15,7 @@ const userService = new UserService();
 
 const app = express();
 app.use(express.json());
+app.use(fileUpload());
 app.use(SwaggerRouter);
 
 app.use('/countries', CountryRouter(countryService), SightRouter(countryService, sightsService));
