@@ -21,7 +21,9 @@ app.use('/users', UserRouter(userService));
 
 app.use(errorHandler);
 
-app.listen(3000);
+app.listen(process.env['PORT'] || 3000, () => {
+  console.log(`starting application at port ${process.env['PORT']}`)
+});
 
 process.on('uncaughtException', (err) => {
   console.log('Uncaught exception was thrown due to', err);
