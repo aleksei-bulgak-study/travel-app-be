@@ -155,7 +155,7 @@ paths:
         '400':
           $ref: '#/components/responses/400'
   
-  /countries/{isoCode}/sights/{id}:
+  /countries/{isoCode}/sights/{id}/rate:
     post:
       parameters: 
         - in: path

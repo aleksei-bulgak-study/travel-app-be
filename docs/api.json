@@ -240,7 +240,7 @@
         }
       }
     },
-    "/countries/{isoCode}/sights/{id}": {
+    "/countries/{isoCode}/sights/{id}/rate": {
       "post": {
         "parameters": [
           {
