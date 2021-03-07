@@ -9,13 +9,11 @@ export default class SightsService {
 
     const existingRate = sight.rating.find((rate) => rate.username === rating.username);
     if (existingRate) {
-      throw new ServerError(
-        400,
-        `User with name ${rating.username} has already rated ${sight.name}`
-      );
+      existingRate.rate = rating.rate;
+    } else {
+      sight.rating.push({...rating});
     }
 
-    sight.rating.push({ ...rating });
     return sight;
   }
 }

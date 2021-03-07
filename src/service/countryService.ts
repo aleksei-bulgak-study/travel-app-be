@@ -35,13 +35,8 @@ export default class CountryService {
   }
 
   async updateCountry(country: Country): Promise<Country> {
-    const countryFromDB = await CountrySchema.findOne({ isoCode: country.isoCode }).exec();
-    if (countryFromDB === null) {
-      throw new ServerError(404, `Country with specified isoCode ${country.isoCode} was not found`);
-    }
-
-    await CountrySchema.updateOne().exec();
-    return countryFromDB;
+    await CountrySchema.updateOne({_id: country._id}, country).exec();
+    return country;
   }
 
   async createCountry(country: Country): Promise<Country> {
