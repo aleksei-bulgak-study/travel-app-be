@@ -43,3 +43,4 @@ index.html
 **/secrets.sh
 logs
 .env
+build/
