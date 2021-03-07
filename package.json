@@ -4,9 +4,9 @@
   "description": "Backend part of RSS travel app",
   "main": "./src/index.ts",
   "scripts": {
-    "start": "node build/src/index.js",
+    "start:prod": "node build/src/index.js",
     "build": "tsc --build tsconfig.json",
-    "start:develop": "nodemon ./src/index.ts",
+    "start": "nodemon ./src/index.ts",
     "build:watch": "tsc --build --watch tsconfig.json",
     "lint": "eslint . --ext .ts"
   },
