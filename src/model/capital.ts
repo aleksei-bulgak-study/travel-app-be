@@ -3,12 +3,7 @@ import { Schema } from "mongoose";
 export type Capital = {
   name: string;
   coordinates: Coordinates;
-  translations?: CapitalTranslation[];
-};
-
-export type CapitalTranslation = {
-  locale: string;
-  name: string;
+  translations?: CapitalTranslation;
 };
 
 type Coordinates = {
@@ -16,9 +11,25 @@ type Coordinates = {
   lon: number;
 };
 
-const CapitalTranslationSchema: Schema = new Schema({
-  locale: { type: String, required: true, unique: true },
+type CapitalTranslation = {
+  en: TranslationFields;
+  ru: TranslationFields;
+  uk: TranslationFields;
+};
+
+type TranslationFields = {
+  name: string;
+};
+
+const TranslationFieldsSchema: Schema = new Schema({
   name: { type: String, required: true, unique: true },
+  description: { type: String, required: true},
+});
+
+const CapitalTranslationSchema: Schema = new Schema({
+  en: { type: TranslationFieldsSchema, required: true},
+  ru: { type: TranslationFieldsSchema, required: true},
+  uk: { type: TranslationFieldsSchema, required: true},
 });
 
 const CoordinatesSchema: Schema = new Schema({
@@ -30,5 +41,5 @@ export const CapitalSchema: Schema = new Schema({
   code: { type: String, required: true, unique: true },
   name: { type: String, required: true, unique: true },
   coordinates: { type: CoordinatesSchema, required: true },
-  translations: [{ type: CapitalTranslationSchema, required: true }]
+  translations: { type: CapitalTranslationSchema, required: true }
 });

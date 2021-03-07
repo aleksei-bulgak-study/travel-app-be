@@ -14,19 +14,29 @@ export interface Country extends Document {
   timezone: Timezone;
   capital: Capital;
   sights: Sight[];
-  translations?: CountryTranslation[];
+  translations?: CountryTranslation;
 }
 
 type CountryTranslation = {
-  locale: string;
+  en: TranslationFields;
+  ru: TranslationFields;
+  uk: TranslationFields;
+};
+
+type TranslationFields = {
   name: string;
   description: string;
 };
 
-const CountryTranslationSchema: Schema = new Schema({
-  locale: { type: String, required: true, unique: true },
+const TranslationFieldsSchema: Schema = new Schema({
   name: { type: String, required: true, unique: true },
   description: { type: String, required: true},
+});
+
+const CountryTranslationSchema: Schema = new Schema({
+  en: { type: TranslationFieldsSchema, required: true},
+  ru: { type: TranslationFieldsSchema, required: true},
+  uk: { type: TranslationFieldsSchema, required: true},
 });
 
 const CountrySchema: Schema = new Schema({
@@ -39,7 +49,7 @@ const CountrySchema: Schema = new Schema({
   capital: { type: CapitalSchema, required: true },
   timezone: { type: TimezoneSchema, required: true },
   sights: [{ type: SightSchema, required: true }],
-  translations: [{ type: CountryTranslationSchema, required: true }],
+  translations: { type: CountryTranslationSchema, required: true },
 });
 
 export default mongoose.model<Country>('countries', CountrySchema);
