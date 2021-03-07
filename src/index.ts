@@ -1,5 +1,6 @@
 import express, { Request, Response } from 'express';
 import fileUpload from 'express-fileupload';
+import cors from 'cors';
 
 import configs from './config';
 import errorHandler from './middleware/errorHandlingMiddleware';
@@ -14,6 +15,7 @@ const sightsService = new SightsService();
 const userService = new UserService();
 
 const app = express();
+app.use(cors())
 app.use(express.json());
 app.use(fileUpload());
 app.use(SwaggerRouter);
