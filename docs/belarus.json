@@ -1,0 +1,213 @@
+{
+    "isoCode": "BLR",
+    "name": "Belarus",
+    "description": "Belarus, officially the Republic of Belarus, is a landlocked country in Eastern Europe. It is bordered by Russia to the east and northeast, Ukraine to the south, Poland to the west, and Lithuania and Latvia to the northwest. Covering an area of 207,600 square kilometres (80,200 sq mi) and with a population of 9.4 million, Belarus is the thirteenth-largest and the twentieth-most populous country in Europe. The country is administratively divided into seven regions, and is one of the world's most urbanized, with over 40% of its total land area forested. Minsk is the country's capital and largest city.",
+    "image": "https://eufordigital.eu/wp-content/uploads/2019/08/bellarus.jpg",
+    "video": "https://www.youtube.com/watch?v=dTlqUEJ-yEI",
+    "currency": {
+        "code": "BYN",
+        "name": "Belarusian Ruble",
+        "translations": [
+            {
+                "locale": "en",
+                "name": "Belarusian Ruble"
+            },
+            {
+                "locale": "ru",
+                "name": "Белоруский рубль"
+            },
+            {
+                "locale": "uk",
+                "name": "Білоруський рубель"
+            }
+        ]
+    },
+    "timezone": {
+        "name": "Europe/Minsk",
+        "offset": "+0300"
+    },
+    "capital": {
+        "name": "Minsk",
+        "coordinates": {
+            "lat": 53.902334,
+            "lng": 27.5618791
+        },
+        "translations": [
+            {
+                "locale": "en",
+                "name": "Minsk"
+            },
+            {
+                "locale": "ru",
+                "name": "Минск"
+            },
+            {
+                "locale": "uk",
+                "name": "Мінськ"
+            }
+        ]
+    },
+    "sights": [
+        {
+            "id": "b9a2ec81-0a48-4b0b-9a0c-d7dc0a189b00",
+            "name": "Minsk Hero City Obelisk",
+            "description": "Minsk Hero City Obelisk is a 45 meters tall monument in the shape of an obelisk located on the Victors Avenue in Minsk, Belarus. The Obelisk is dedicated to the fact that Minsk was declared a Hero City on 26 June 1974 for its people's bravery during the Nazi occupation that lasted for 1,100 days. The Obelisk was opened in 1985 commemorating the 40th anniversary of victory in the Great Patriotic War.",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Minsk_Kriegsmuseum.JPG/400px-Minsk_Kriegsmuseum.JPG",
+            "rating": [],
+            "translations": [
+                {
+                    "locale": "en",
+                    "name": "Minsk Hero City Obelisk",
+                    "description": "Minsk Hero City Obelisk is a 45 meters tall monument in the shape of an obelisk located on the Victors Avenue in Minsk, Belarus. The Obelisk is dedicated to the fact that Minsk was declared a Hero City on 26 June 1974 for its people's bravery during the Nazi occupation that lasted for 1,100 days. The Obelisk was opened in 1985 commemorating the 40th anniversary of victory in the Great Patriotic War."
+                },
+                {
+                    "locale": "ru",
+                    "name": "Стелла «Минск — город-герой»",
+                    "description": "«Минск — город-герой» — архитектурно-скульптурный комплекс в Минске, включающий обелиск и бронзовую скульптуру «Родина-мать». Является частью единого ансамбля Белорусского государственного музея истории Великой Отечественной войны. Расположен на небольшом холме в начале Музейно-паркового комплекса «Победа», на пересечении проспектов Победителей и Машерова."
+                },
+                {
+                    "locale": "uk",
+                    "name": "Мінськ — місто-герой",
+                    "description": "«Мінськ — місто-герой» — архітектурно-скульптурний комплекс у Мінську, що складається з обеліска та бронзової скульптури «Батьківщини-матері». Є частиною єдиного ансамблю Білоруського державного музею історії Великої Вітчизняної війни. Розташовано на невеликому пагорбі на початку музейно-паркового комплексу «Перемога» на розі проспектів Переможців і Машерова."
+                }
+            ]
+        },
+        {
+            "id": "52357a6b-2a60-4c9d-a089-f754829b6e96",
+            "name": "Victory Square",
+            "description": "Victory Square — square in the centre of the City of Minsk located at the crossing of Independence Avenue and Zakharau Street. The square is located in the historic centre of Minsk nearby with the museum of the 1st Congress of RSDLP, Main offices of National State TV and Radio and City House of Marriages. A green park stretches from the Victory Square to the river of Svislach and to the entrance to the M. Gorky Park. Victory Square is the key landmark of Minsk. Holiday parades go through the square. The newly married traditionally take their picture at the square. Victory Square is a key landmark for Belarus like Red Square in Moscow for Russia.",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Minsk_obelisk.jpg/267px-Minsk_obelisk.jpg",
+            "rating": [],
+            "translations": [
+                {
+                    "locale": "en",
+                    "name": "Victory Square",
+                    "description": "Victory Square — square in the centre of the City of Minsk located at the crossing of Independence Avenue and Zakharau Street. The square is located in the historic centre of Minsk nearby with the museum of the 1st Congress of RSDLP, Main offices of National State TV and Radio and City House of Marriages. A green park stretches from the Victory Square to the river of Svislach and to the entrance to the M. Gorky Park. Victory Square is the key landmark of Minsk. Holiday parades go through the square. The newly married traditionally take their picture at the square. Victory Square is a key landmark for Belarus like Red Square in Moscow for Russia."
+                },
+                {
+                    "locale": "ru",
+                    "name": "Монумент Победы",
+                    "description": "Монумент Победы — монумент-обелиск в столице Белоруссии городе Минске в честь победы в Великой Отечественной войне и в память о воинах Советской армии, партизанах и подпольщиках, погибших в годы Великой Отечественной войны. Монумент является одним из символов столицы Белоруссии, а также местом проведения различных мероприятий в честь победы в Великой Отечественной войне."
+                },
+                {
+                    "locale": "uk",
+                    "name": "Монумент Перемоги",
+                    "description": "Монумент Перемоги — радянський монумент-обеліск на честь вояків Червоної Армії, радянських партизанів і підпільників періоду німецько-радянської війни в місті Мінську."
+                }
+            ]
+        },
+        {
+            "id": "b00f406b-24c5-45db-b8a0-12b2528f956b",
+            "name": "Nesvizh Castle",
+            "description": "Nesvizh Castle is a residential castle of the Radziwiłł family in Niasviž, Belarus. It is 183 metres (600 ft) above sea level. 1919 - 1939 the complex was in Poland and was considered one of the most beautiful castles in the Kresy region.",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/%D0%9D%D0%B5%D1%81%D0%B2%D0%B8%D0%B6-2012-1.jpg/400px-%D0%9D%D0%B5%D1%81%D0%B2%D0%B8%D0%B6-2012-1.jpg",
+            "rating": [],
+            "translations": [
+                {
+                    "locale": "en",
+                    "name": "Nesvizh Castle",
+                    "description": "Nesvizh Castle is a residential castle of the Radziwiłł family in Niasviž, Belarus. It is 183 metres (600 ft) above sea level. 1919 - 1939 the complex was in Poland and was considered one of the most beautiful castles in the Kresy region."
+                },
+                {
+                    "locale": "ru",
+                    "name": "Несвижский замок",
+                    "description": "Не́свижский за́мок — дворцово-замковый комплекс, находящийся в северо-восточной части города Несвижа в Минской области Белоруссии, памятник архитектуры XVI—XVIII веков. Заложен князем Н. Х. Радзивиллом Сироткой в 1583 году, на месте деревянного замка (1533). Вначале (до 1599 г.) в строительстве замка участвовал итальянский архитектор Джованни Бернардони. В XVI—XX вв. — резиденция князей Радзивиллов. Включает в себя собственно замок, замковые укрепления, а также большой ландшафтно-пейзажный парк."
+                },
+                {
+                    "locale": "uk",
+                    "name": "Несвізький замок",
+                    "description": "Несві́зький за́мок — палацово-замковий комплекс, що знаходиться в північно-східній частині міста Несвіжа в Мінській області Білорусі. У XVI—XIX століттях — резиденція князів Радзивіллів. Входить до світової спадщини ЮНЕСКО."
+                }
+            ]
+        },
+        {
+            "id": "5514a9f2-d90b-4117-9c5e-6a42b0dc8acd",
+            "name": "Mir Castle",
+            "description": "The Mir Castle Complex (Belarusian: Мірскі замак, Łacinka: Mirski zamak, Lithuanian: Myriaus pilis, Polish: Zamek w Mirze) is a historic fortified castle and a UNESCO World Heritage site in Belarus. It is located in the town of Mir, in the Kareličy District of the Hrodna voblast, at 53°27′4.46″N 26°28′22.80″E, 29 kilometres (18 mi) north-west of another World Heritage site, Niasviž Castle. Mir Castle Complex is 164 metres (538 ft) above sea level. Erected in the 16th century in the late Polish Gothic style, it is one of the few remaining architectural monuments of the former Polish–Lithuanian Commonwealth in contemporary Belarus.",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Belarus-Mir-Castle-9.jpg/400px-Belarus-Mir-Castle-9.jpg",
+            "rating": [],
+            "translations": [
+                {
+                    "locale": "en",
+                    "name": "Mir Castle",
+                    "description": "The Mir Castle Complex (Belarusian: Мірскі замак, Łacinka: Mirski zamak, Lithuanian: Myriaus pilis, Polish: Zamek w Mirze) is a historic fortified castle and a UNESCO World Heritage site in Belarus. It is located in the town of Mir, in the Kareličy District of the Hrodna voblast, at 53°27′4.46″N 26°28′22.80″E, 29 kilometres (18 mi) north-west of another World Heritage site, Niasviž Castle. Mir Castle Complex is 164 metres (538 ft) above sea level. Erected in the 16th century in the late Polish Gothic style, it is one of the few remaining architectural monuments of the former Polish–Lithuanian Commonwealth in contemporary Belarus."
+                },
+                {
+                    "locale": "ru",
+                    "name": "Мирский замок",
+                    "description": "Ми́рский за́мок, за́мково-па́рковый ко́мплекс «Мир» — оборонительное укрепление и резиденция в городском посёлке (пгт) Мир Кореличского района Гродненской области Белоруссии. Памятник архитектуры, внесён в список Всемирного наследия ЮНЕСКО (с 2000 года). Архитектурный комплекс включает в себя замок XVI—XX веков, валы XVII—XVIII веков, пруд 1896—1898 годов, часовню-усыпальницу Святополк-Мирских с домом сторожа и воротами, пейзажный и регулярный парки, дом управляющего. Находится в пгт Мир, на правом берегу реки Миранки."
+                },
+                {
+                    "locale": "uk",
+                    "name": "Мірський замок ",
+                    "description": "Мірський замок (біл. Мірскі замак) — один з найкращих пам'ятників середньовічного білоруського зодчества, внесений до Світової спадщини ЮНЕСКО (з 2000 року). Знаходиться в міському селищі Мір Корелицького району Гродненської області, на правому березі річки Міранки. Зараз Мірський замок — один з найпопулярніших і найвідвідуваніших музейних об'єктів Білорусі. Замковий комплекс включає в себе: замок, земляні вали, англійський пейзажний парк та реконструкцію італійського саду, ставок, флігель і каплицю-усипальницю Святополк-Мірських, будиночок сторожа і придорожню каплицю."
+                }
+            ]
+        },
+        {
+            "id": "86193d5a-5bd4-4251-90b5-a5b0c92b4c67",
+            "name": "Brest Fortress",
+            "description": "Brest Fortress (Belarusian: Брэсцкая крэпасць, Bresckaja krepasć; Polish: Twierdza brzeska), formerly known as Brest-Litoŭsk Fortress, is a 19th-century fortress in Brest, Belarus. In 1965, the title \"Hero Fortress\" was given to the fortress to commemorate the defence of the frontier stronghold during the first week of the Operation Barbarossa when Axis forces invaded the Soviet Union on June 22, 1941. The title \"Hero Fortress\" corresponds to the title \"Hero City\" that the Presidium of the Supreme Soviet of the Soviet Union awarded to twelve Soviet cities.",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/BrestFortress7.JPG/400px-BrestFortress7.JPG",
+            "rating": [],
+            "translations": [
+                {
+                    "locale": "en",
+                    "name": "Brest Fortress",
+                    "description": "Brest Fortress (Belarusian: Брэсцкая крэпасць, Bresckaja krepasć; Polish: Twierdza brzeska), formerly known as Brest-Litoŭsk Fortress, is a 19th-century fortress in Brest, Belarus. In 1965, the title \"Hero Fortress\" was given to the fortress to commemorate the defence of the frontier stronghold during the first week of the Operation Barbarossa when Axis forces invaded the Soviet Union on June 22, 1941. The title \"Hero Fortress\" corresponds to the title \"Hero City\" that the Presidium of the Supreme Soviet of the Soviet Union awarded to twelve Soviet cities."
+                },
+                {
+                    "locale": "ru",
+                    "name": "Брестская крепость",
+                    "description": "Бре́стская кре́пость (белор. Брэсцкая крэпасць, крепость Брест-Литовск) — крепость в черте города Бреста (Республика Беларусь), у впадения реки Мухавец в Западный Буг, а также Тереспольской гмины Польши (форты VI (др. назв. «Тересполь»), литеры Л («Лебедев»), VII («Лобачёв»), литеры И («Жуки»), литеры К («Кобыляны»), литеры О («Корощин»)). Крепость I класса.Кроме того, Брестской крепости С 8 мая 1965 года присвоено звание крепости-героя. - высшей степени отличия, которой удостоены единственная крепость и двенадцать городов Советского Союза прославившихся своей героической обороной во время Великой Отечественной войны 1941—1945 годов."
+                },
+                {
+                    "locale": "uk",
+                    "name": "Берестейська фортеця",
+                    "description": "Берестейська фортеця (біл. Брэсцкая крэпасць, біл. тарашк. Берасьцейская крэпасьць) — фортеця в місті Берестя в Білорусі. Фортеця-герой (з 1965 року). З 1971 — меморіальний комплекс."
+                }
+            ]
+        },
+        {
+            "id": "86193d5a-5bd4-4251-90b5-a5b0c92b4c67",
+            "name": "Saint Sophia Cathedral",
+            "description": "The Cathedral of Holy Wisdom in Polotsk was built by Prince Vseslav Briacheslavich (1044–1101) between 1044 (it is first mentioned in the Voskresenskaia Chronicle under the year 1056) and 1066. It stands at the confluence of the Polota River and Western Dvina River on the eastern side of the city and is probably the oldest church in Belarus.",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/%D0%9F%D0%BE%D0%BB%D0%B0%D1%86%D0%BA._%D0%A1%D0%B0%D1%84%D1%96%D0%B9%D1%81%D0%BA%D1%96_%D1%81%D0%B0%D0%B1%D0%BE%D1%80.jpg/400px-%D0%9F%D0%BE%D0%BB%D0%B0%D1%86%D0%BA._%D0%A1%D0%B0%D1%84%D1%96%D0%B9%D1%81%D0%BA%D1%96_%D1%81%D0%B0%D0%B1%D0%BE%D1%80.jpg",
+            "rating": [],
+            "translations": [
+                {
+                    "locale": "en",
+                    "name": "Saint Sophia Cathedral",
+                    "description": "The Cathedral of Holy Wisdom in Polotsk was built by Prince Vseslav Briacheslavich (1044–1101) between 1044 (it is first mentioned in the Voskresenskaia Chronicle under the year 1056) and 1066. It stands at the confluence of the Polota River and Western Dvina River on the eastern side of the city and is probably the oldest church in Belarus."
+                },
+                {
+                    "locale": "ru",
+                    "name": "Софийский собор",
+                    "description": "Софи́йский собор (белор. Сафійскі сабор) — памятник архитектуры XI—XVIII веков, самая первая каменная постройка на территории Беларуси. Возведённый в середине XI века в византийском стиле храм был освящён во имя Святой Софии. До нашего времени Софийский собор сохранился в значительно измененном виде, окончательно был перестроен в XVIII веке в стиле виленского барокко. В таком виде сохранился до нашего времени."
+                },
+                {
+                    "locale": "uk",
+                    "name": "Софійський собор",
+                    "description": "Софійський собор (біл. Сафійскі сабор) — пам'ятка християнської сакральної архітектури в місті Полоцьку Білорусі розташована на високому правому березі річки Західна Двіна при впадінні до неї річки Полоти."
+                }
+            ]
+        }
+    ],
+    "translations": [
+        {
+            "locale": "en",
+            "name": "Belarus",
+            "description": "Belarus, officially the Republic of Belarus, is a landlocked country in Eastern Europe. It is bordered by Russia to the east and northeast, Ukraine to the south, Poland to the west, and Lithuania and Latvia to the northwest. Covering an area of 207,600 square kilometres (80,200 sq mi) and with a population of 9.4 million, Belarus is the thirteenth-largest and the twentieth-most populous country in Europe. The country is administratively divided into seven regions, and is one of the world's most urbanized, with over 40% of its total land area forested. Minsk is the country's capital and largest city."
+        },
+        {
+            "locale": "ru",
+            "name": "Белорусь",
+            "description": "Государство в Восточной Европе. Население на 1 января 2020 года составляет 9 408 400 человек, территория — 207 595 км². Занимает 94-е место по количеству населения и 84-е по территории в мире."
+        },
+        {
+            "locale": "uk",
+            "name": "Білору́сь",
+            "description": "Держава у Східній Європі без виходу до моря, що межує з Україною на півдні, Польщею на заході, Литвою та Латвією на півночі, а також РФ на півночі та сході. Столиця та найбільше місто — Мінськ. Більше 40 % території країни площею 207 600 км² покриті лісами. Основними галузями її економіки є сфера послуг і виробництво. Грошова одиниця — білору́ський ру́бель. До XX століття різні держави в різний час контролювали землі сучасної Білорусі, включаючи Полоцьке князівство (XI—XIV ст.), Велике князівство Литовське, Річ Посполиту та Російську імперію."
+        }
+    ]
+}

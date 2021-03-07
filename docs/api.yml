@@ -1,0 +1,343 @@
+openapi: '3.0.2'
+info:
+  title: Travel App
+  version: '1.0'
+
+servers:
+  - url: http://localhost:8080/v1
+
+paths:
+  /users:
+    post:
+      operationId: createNewUser
+      description: Create new user
+      tags:
+        - users
+      requestBody:
+        content:
+          application/json:
+            schema:
+              $ref: '#/components/schemas/User'
+      responses:
+        '201':
+          description: OK
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/User'
+        '409':
+          $ref: '#/components/responses/409'
+        '500':
+          $ref: '#/components/responses/404'
+        '400':
+          $ref: '#/components/responses/400'        
+        '401':
+          $ref: '#/components/responses/400'
+
+  /users/{login}:
+    parameters:
+      - in: path
+        name: login
+        schema:
+          type: string
+        required: true 
+    
+    get:
+      operationId: getUserInfoByLogin
+      description: getInformationAboutUser
+      tags:
+        - users
+      responses:
+        '200':
+          description: Object with user info
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/User'
+        '404':
+          $ref: '#/components/responses/404'
+        '500':
+          $ref: '#/components/responses/404'        
+        '401':
+          $ref: '#/components/responses/400'
+    put:
+      operationId: updateUserInfo
+      description: Update password or logo
+      tags:
+        - users
+      requestBody:
+        content:
+          application/json:
+            schema:
+              $ref: '#/components/schemas/User'
+      responses:
+        '200':
+          description: OK
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/User'
+        '404':
+          $ref: '#/components/responses/404'
+        '500':
+          $ref: '#/components/responses/404'
+        '400':
+          $ref: '#/components/responses/400'        
+        '401':
+          $ref: '#/components/responses/400'
+
+  /countries:
+    get:
+      operationId: getListOfCountries
+      description: Get countries by query
+      tags:
+        - countries
+      parameters:
+        - in: query
+          name: search
+          schema:
+            type: string
+        - in: query
+          name: locale
+          schema:
+            type: string
+            enum:
+              - en_US
+              - ru_RU
+      responses:
+        '200':
+          description: OK
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/Country'
+        '404':
+          $ref: '#/components/responses/404'
+        '500':
+          $ref: '#/components/responses/404'
+        '400':
+          $ref: '#/components/responses/400'
+
+  /countries/{isoCode}:
+    get:
+      operationId: getInfoByIsoCode
+      description: Get info about country by iso code and locale
+      tags:
+        - countries
+      parameters:
+        - in: path
+          name: isoCode
+          required: true
+          schema:
+            type: string
+
+        - in: query
+          name: locale
+          schema:
+            type: string
+            default: en_US
+            enum:
+              - en_US
+              - ru_RU
+      responses:
+        '200':
+          description: OK
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/Country'
+        '404':
+          $ref: '#/components/responses/404'
+        '500':
+          $ref: '#/components/responses/404'
+        '400':
+          $ref: '#/components/responses/400'
+  
+  /countries/{isoCode}/sights/{id}:
+    post:
+      parameters: 
+        - in: path
+          name: isoCode
+          required: true
+          schema:
+            type: string
+        - in: path
+          name: id
+          required: true
+          schema:
+            type: string
+      tags:
+        - rate
+      operationId: rateSight
+      requestBody:
+        content:
+          application/json:
+            schema:
+              type: object
+              properties:
+                username:
+                  type: string
+                rate:
+                  type: number
+      responses:
+        '201':
+          description: 'Created'
+        '404':
+          $ref: '#/components/responses/404'
+        '401':
+          $ref: '#/components/responses/401'
+        '409':
+          $ref: '#/components/responses/409'
+        '500':
+          $ref: '#/components/responses/500'
+
+
+components:
+  schemas:  
+    User:
+      type: object
+      properties:
+        username:
+          type: string
+        password:
+          type: string
+          format: password
+        logo:
+          type: string
+          format: base64
+
+    Country:
+      type: object
+      properties:
+        isoCode:
+          type: string
+          example: DE
+        name:
+          type: string
+          example: Германия
+        description:
+          type: string
+          example: Какое-то описание страны пару обзацев
+        image:
+          type: string
+          example: https://media.istockphoto.com/photos/reichstag-building-seat-of-the-german-parliament-picture-id1152163935
+        video:
+          type: string
+          example: https://www.youtube.com/watch?v=IPbzWJNmndY
+        currency:
+          type: object
+          properties:
+            code: 
+              type: string
+              example: 'EUR'
+            name: 
+              type: string
+              example: Евро
+        timezone:
+          type: object
+          properties:
+            name: 
+              type: string
+              example: Europe/Berlin
+            offset: 
+              type: string
+              example: '+0100'
+        capital:
+          type: object
+          properties:
+            name:
+              type: string
+              example: Берлин
+            coordinates:
+              $ref: '#/components/schemas/Coordinates'
+        sights:
+          type: array
+          items:
+            $ref: '#/components/schemas/Sight'
+
+    Coordinates:
+      type: object
+      properties:
+        lat:
+          type: number
+        lon:
+          type: number
+    
+    Sight:
+      type: object
+      properties:
+        id:
+          type: string
+          example: some unique id
+        name:
+          type: string
+        description:
+          type: string
+        image:
+          type: string
+          example: url
+        rating:
+          type: array
+          items:
+            type: object
+            properties:
+              username:
+                type: string
+              rate:
+                type: number
+                enum:
+                  - 0
+                  - 1
+                  - 2
+                  - 3
+                  - 4
+                  - 5
+
+  responses:
+    '401':
+      description: Access is not allowed
+      content:
+        application/json:
+          schema:
+            type: object
+            properties:
+              message: 
+                type: string
+    '404':
+      description: Resource not found
+      content:
+        application/json:
+          schema:
+            type: object
+            properties:
+              message: 
+                type: string
+
+    '500':
+      description: Server error
+      content:
+        application/json:
+          schema:
+            type: object
+            properties:
+              message: 
+                type: string
+    '409':
+      description: Server error
+      content:
+        application/json:
+          schema:
+            type: object
+            properties:
+              message: 
+                type: string
+
+    '400':
+      description: Bad request
+      content:
+        application/json:
+          schema:
+            type: object
+            properties:
+              message: 
+                type: string
