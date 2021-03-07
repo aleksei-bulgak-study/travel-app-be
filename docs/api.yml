@@ -4,7 +4,8 @@ info:
   version: '1.0'
 
 servers:
-  - url: http://localhost:8080/v1
+  - url: http://localhost:8080/
+  - url: https://rss-travel-app.herokuapp.com/
 
 paths:
   /users:

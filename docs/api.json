@@ -6,7 +6,12 @@
   },
   "servers": [
     {
-      "url": "http://localhost:8080/v1"
+      "description": "local",
+      "url": "http://localhost:3000"
+    },
+    {
+      "description": "prod",
+      "url": "https://rss-travel-app.herokuapp.com"
     }
   ],
   "paths": {
