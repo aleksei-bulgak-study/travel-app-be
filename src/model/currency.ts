@@ -27,7 +27,7 @@ const CurrencyTranslationSchema: Schema = new Schema({
 });
 
 export const CurrencySchema: Schema = new Schema({
-  code: { type: String, required: true, unique: true },
+  code: { type: String, required: true },
   name: { type: String, required: true },
   translations: { type: CurrencyTranslationSchema, required: true }
 });

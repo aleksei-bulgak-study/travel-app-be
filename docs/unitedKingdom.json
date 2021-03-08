@@ -1,0 +1,186 @@
+{
+    "isoCode": "GBP",
+    "name": "United Kingdom",
+    "description": "The United Kingdom of Great Britain and Northern Ireland, commonly known as the United Kingdom (UK or U.K.), or Britain, is a sovereign country in north-western Europe, off the north-­western coast of the European mainland. The United Kingdom includes the island of Great Britain, the north-­eastern part of the island of Ireland, and many smaller islands within the British Isles. Northern Ireland shares a land border with the Republic of Ireland. Otherwise, the United Kingdom is surrounded by the Atlantic Ocean, with the North Sea to the east, the English Channel to the south and the Celtic Sea",
+    "image": "https://pittsburghquarterly.com/wp-content/uploads/articles/britain-s-dis-united-kingdom.jpg",
+    "video": "https://www.youtube.com/watch?v=BsHnd1M4KsI",
+    "currency": {
+        "code": "GBP",
+        "name": "British Pound",
+        "translations": {
+            "en": {
+                "name": "British Pound"
+            },
+            "ru": {
+                "name": "Фунт стерлингов"
+            },
+            "uk": {
+                "name": "Фунт стерлінгів"
+            }
+        }
+    },
+    "timezone": {
+        "name": "Europe/London",
+        "offset": "+0000"
+    },
+    "capital": {
+        "name": "London",
+        "coordinates": {
+            "lat": 51.5156177,
+            "lon": -0.0919983
+        },
+        "translations": {
+            "en": {
+                "name": "London"
+            },
+            "ru": {
+                "name": "Лондон"
+            },
+            "uk": {
+                "name": "Лондон"
+            }
+        }
+    },
+    "sights": [
+        {
+            "id": "4905c492-53e2-4558-8ae2-79279e65e25e",
+            "name": "Tower of London",
+            "description": "The Tower of London, officially Her Majesty's Royal Palace and Fortress of the Tower of London, is a historic castle on the north bank of the River Thames in central London. It lies within the London Borough of Tower Hamlets, which is separated from the eastern edge of the square mile of the City of London by the open space known as Tower Hill. It was founded towards the end of 1066 as part of the Norman Conquest. The White Tower, which gives the entire castle its name, was built by William the Conqueror in 1078 and was a resented symbol of oppression, inflicted upon London by the new ruling elite. The castle was also used as a prison from 1100 (Ranulf Flambard) until 1952 (Kray twins), although that was not its primary purpose. A grand palace early in its history, it served as a royal residence. As a whole, the Tower is a complex of several buildings set within two concentric rings of defensive walls and a moat. There were several phases of expansion, mainly under kings Richard I, Henry III, and Edward I in the 12th and 13th centuries. The general layout established by the late 13th century remains despite later activity on the site.",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Tower_of_London_from_the_Shard_%288515883950%29.jpg/274px-Tower_of_London_from_the_Shard_%288515883950%29.jpg",
+            "rating": [],
+            "translations": {
+                "en": {
+                    "name": "Tower of London",
+                    "description": "The Tower of London, officially Her Majesty's Royal Palace and Fortress of the Tower of London, is a historic castle on the north bank of the River Thames in central London. It lies within the London Borough of Tower Hamlets, which is separated from the eastern edge of the square mile of the City of London by the open space known as Tower Hill. It was founded towards the end of 1066 as part of the Norman Conquest. The White Tower, which gives the entire castle its name, was built by William the Conqueror in 1078 and was a resented symbol of oppression, inflicted upon London by the new ruling elite. The castle was also used as a prison from 1100 (Ranulf Flambard) until 1952 (Kray twins), although that was not its primary purpose. A grand palace early in its history, it served as a royal residence. As a whole, the Tower is a complex of several buildings set within two concentric rings of defensive walls and a moat. There were several phases of expansion, mainly under kings Richard I, Henry III, and Edward I in the 12th and 13th centuries. The general layout established by the late 13th century remains despite later activity on the site."
+                },
+                "ru": {
+                    "name": "Лондонский Тауэр",
+                    "description": "Та́уэр (с англ. — «башня, крепость»), Лондонский Тауэр (англ. Her Majesty's Royal Palace and Fortress, Tower of London) — крепость, стоящая на северном берегу Темзы, исторический центр Лондона, одно из старейших сооружений Англии и один из главных символов Великобритании, занимающий особое место в истории английской нации. Как писал герцог Эдинбургский в своей книге, посвященной 900-летию Тауэра, «за свою историю Лондонский Тауэр был крепостью, дворцом, хранилищем королевских драгоценностей, арсеналом, монетным двором, тюрьмой, обсерваторией, зоопарком, местом, привлекающим туристов»."
+                },
+                "uk": {
+                    "name": "Тауер",
+                    "description": "Лондонський Тауер (англ. the Tower, Tower of London) — фортеця, побудована на північному березі річки Темза, історичний центр міста Лондон. Одна з найстаріших історичних споруд Великої Британії, що довгий час слугувала резиденцією англійських монархів. Сьогодні Тауер є одночасно пам'ятником історії та музеєм, зане́сеним до списку об'єктів, що належать до всесвітньої спадщини ЮНЕСКО."
+                }
+            }
+        },
+        {
+            "id": "9d704d7b-6cdd-4490-b729-c8396c6118fe",
+            "name": "British Museum",
+            "description": "The British Museum, in the Bloomsbury area of London, England, is a public institution dedicated to human history, art and culture. Its permanent collection of some eight million works is among the largest and most comprehensive in existence,[3] having been widely collected during the era of the British Empire. It documents the story of human culture from its beginnings to the present. It was the first public national museum in the world.",
+            "image": "https://commons.wikimedia.org/wiki/File:British_Museum_from_NE_2.JPG?uselang=ru",
+            "rating": [],
+            "translations": {
+                "en": {
+                    "name": "British Museum",
+                    "description": "The British Museum, in the Bloomsbury area of London, England, is a public institution dedicated to human history, art and culture. Its permanent collection of some eight million works is among the largest and most comprehensive in existence,[3] having been widely collected during the era of the British Empire. It documents the story of human culture from its beginnings to the present. It was the first public national museum in the world."
+                },
+                "ru": {
+                    "name": "Британский музей",
+                    "description": "Британский музей (англ. the British Museum) — главный историко-археологический музей Британской империи (ныне — Великобритании) и один из крупнейших музеев в мире, второй по посещаемости, среди художественных музеев, после Лувра. Находится в лондонском районе Блумсбери."
+                },
+                "uk": {
+                    "name": "Британський музей",
+                    "description": "Британський музей — головний музей Великої Британії в Лондоні, один з найбільших музеїв у світі. Музей розташований на Great Russell Street, відвідування музею безкоштовне."
+                }
+            }
+        },
+        {
+            "id": "94bd1e38-a125-4d45-81f9-ded964008573",
+            "name": "Big Ben",
+            "description": "Big Ben is the nickname for the Great Bell of the striking clock at the north end of the Palace of Westminster; the name is frequently extended to refer to both the clock and the clock tower. The official name of the tower in which Big Ben is located was originally the Clock Tower; it was renamed Elizabeth Tower in 2012 to mark the Diamond Jubilee of Elizabeth II, Queen of the United Kingdom.",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Clock_Tower_-_Palace_of_Westminster%2C_London_-_May_2007.jpg/290px-Clock_Tower_-_Palace_of_Westminster%2C_London_-_May_2007.jpg",
+            "rating": [],
+            "translations": {
+                "en": {
+                    "name": "Big Ben",
+                    "description": "Big Ben is the nickname for the Great Bell of the striking clock at the north end of the Palace of Westminster; the name is frequently extended to refer to both the clock and the clock tower. The official name of the tower in which Big Ben is located was originally the Clock Tower; it was renamed Elizabeth Tower in 2012 to mark the Diamond Jubilee of Elizabeth II, Queen of the United Kingdom."
+                },
+                "ru": {
+                    "name": "Биг-Бен",
+                    "description": "Биг-Бен (англ. Big Ben) — популярное туристическое название часовой башни Вестминстерского дворца. Официальное название башни с 2012 года — Башня Елизаветы (англ. Elizabeth Tower). Изначально «Биг-Бен» являлось названием самого большого из шести колоколов, однако часто это название расширительно относят и к часам, и к самой часовой башне в целом[2]. На момент отливки Биг-Бен был самым большим и тяжёлым колоколом Соединённого Королевства. Его вес при этом составлял 13,7 тонны. В 1881 году уступил первенство колоколу Большой Пол (17 тонн)."
+                },
+                "uk": {
+                    "name": "Біг-Бен",
+                    "description": "Біг-Бен (англ. Big Ben) — популярна туристична назва годинникової вежі Вестмінстерського палацу. Офіційна назва вежі з 2012 року — Вежа Єлизавети (англ. Elizabeth Tower). Спочатку «Біг-Бен» було назвою найбільшого з п'яти дзвонів, проте часто цю назву помилково відносили і до годинника і до самої годинникової вежі в цілому. На момент виливки Біг-Бен був найбільшим і найважчим (13,7 тонни) дзвоном Сполученого Королівства. В 1881 році поступився першістю дзвону Великий Пол (17 тонн)."
+                }
+            }
+        },
+        {
+            "id": "247e972c-6046-472a-af9c-171c065aa3da",
+            "name": "London Eye",
+            "description": "The London Eye, or the Millennium Wheel, is a cantilevered observation wheel on the South Bank of the River Thames in London. It is Europe's tallest cantilevered observation wheel, and is the most popular paid tourist attraction in the United Kingdom with over 3 million visitors annually. It has made many appearances in popular culture.",
+            "image": "https://en.wikipedia.org/wiki/File:London-Eye-2009.JPG",
+            "rating": [],
+            "translations": {
+                "en": {
+                    "name": "London Eye",
+                    "description": "The London Eye, or the Millennium Wheel, is a cantilevered observation wheel on the South Bank of the River Thames in London. It is Europe's tallest cantilevered observation wheel, and is the most popular paid tourist attraction in the United Kingdom with over 3 million visitors annually. It has made many appearances in popular culture."
+                },
+                "ru": {
+                    "name": "Лондонский глаз",
+                    "description": "Лондонский глаз — колесо обозрения в Лондоне, расположенное в районе Ламбет на южном берегу Темзы. Крупнейшее в Европе и одно из крупнейших в мире. Открыто в марте 2000 г. С высоты 135 метров (приблизительно 45 этажей) при солнечной погоде открывается вид практически на весь Лондон и его окрестности на расстоянии до 40 километров. Это колесо обозрения — семейный проект супругов-архитекторов Дэвида Маркса и Джулии Барфилд. Воплощение проекта в жизнь заняло шесть лет."
+                },
+                "uk": {
+                    "name": "Лондонське око",
+                    "description": "Лондонське Око — одне з найбільших оглядових коліс у світі. Розташоване у Лондоні (Велика Британія). З висоти 135 метрів відкривається краєвид практично на все місто. Колесо огляду зроблене за проектом подружжя Девіда Маркса і Джулі Барфілд, який переміг на конкурсі проєктів споруд на честь настання третього тисячоліття. Втілення проекту в життя зайняло шість років."
+                }
+            }
+        },
+        {
+            "id": "165e53c5-806e-424a-b1cc-0a0e703be0b8",
+            "name": "Buckingham Palace",
+            "description": "Buckingham Palace is the London residence and administrative headquarters of the monarch of the United Kingdom. Located in the City of Westminster, the palace is often at the centre of state occasions and royal hospitality. It has been a focal point for the British people at times of national rejoicing and mourning.",
+            "image": "https://commons.wikimedia.org/wiki/File:Buckingham_Palace,_London_-_April_2009.jpg?uselang=ru",
+            "rating": [],
+            "translations": {
+                "en": {
+                    "name": "Buckingham Palace",
+                    "description": "Buckingham Palace is the London residence and administrative headquarters of the monarch of the United Kingdom. Located in the City of Westminster, the palace is often at the centre of state occasions and royal hospitality. It has been a focal point for the British people at times of national rejoicing and mourning."
+                },
+                "ru": {
+                    "name": "Букингемский дворец",
+                    "description": "Букинге́мский дворе́ц — официальная лондонская резиденция королевы Великобритании Елизаветы II. Расположен напротив улицы Мэлл и Грин-парка с беломраморным и позолоченным памятником королеве Виктории. Когда монарх находится во дворце, над крышей дворца развевается королевский штандарт."
+                },
+                "uk": {
+                    "name": "Букінгемський палац",
+                    "description": "Букінге́мський пала́ц (англ. Buckingham Palace) — палац, офіційна лондонська резиденція британських монархів. Початково Букінгемський палац був відомий як будинок Букінгема, зведений для герцога Букінгемського в 1703."
+                }
+            }
+        },
+        {
+            "id": "cc6f54cc-a378-404f-9138-e2ad1a3938e3",
+            "name": "Tower Bridge",
+            "description": "Tower Bridge is a combined bascule and suspension bridge in London, built between 1886 and 1894. The bridge crosses the River Thames close to the Tower of London and has become a world-famous symbol of London. As a result, it is sometimes confused with London Bridge, about 0.5 miles (0.80 km) upstream. Tower Bridge is one of five London bridges owned and maintained by the Bridge House Estates, a charitable trust overseen by the City of London Corporation. It is the only one of the trust's bridges not to connect the City of London directly to the Southwark bank, as its northern landfall is in Tower Hamlets.",
+            "image": "https://commons.wikimedia.org/wiki/File:Tower_Bridge_from_Shad_Thames.jpg?uselang=ru",
+            "rating": [],
+            "translations": {
+                "en": {
+                    "name": "Tower Bridge",
+                    "description": "Tower Bridge is a combined bascule and suspension bridge in London, built between 1886 and 1894. The bridge crosses the River Thames close to the Tower of London and has become a world-famous symbol of London. As a result, it is sometimes confused with London Bridge, about 0.5 miles (0.80 km) upstream. Tower Bridge is one of five London bridges owned and maintained by the Bridge House Estates, a charitable trust overseen by the City of London Corporation. It is the only one of the trust's bridges not to connect the City of London directly to the Southwark bank, as its northern landfall is in Tower Hamlets."
+                },
+                "ru": {
+                    "name": "Тауэрский мост",
+                    "description": "Та́уэрский мост, или Тауэр-бридж (англ. Tower Bridge, дословный перевод — Башенный мост), — комбинированный подвесной (висячий) и разводной (раскрывающийся) мост в центре Лондона над рекой Темзой, недалеко от Лондонского Тауэра. Иногда путают с Лондонским мостом, расположенным примерно в 0,8 км выше по течению. Строительство началось в 1886 году; открыт в 1894 году. Также является одним из символов Лондона и Британии."
+                },
+                "uk": {
+                    "name": "Тауерський міст",
+                    "description": "Тауерський міст (англ. Tower Bridge) — розвідний міст у центрі Лондона над річкою Темзою, неподалік від лондонського Тауера. Відкритий у 1894 році. Міст є одним із символів Лондона і Великої Британії."
+                }
+            }
+        }
+    ],
+    "translations": {
+        "en": {
+            "name": "United Kingdom",
+            "description": "The United Kingdom of Great Britain and Northern Ireland, commonly known as the United Kingdom (UK or U.K.), or Britain, is a sovereign country in north-western Europe, off the north-­western coast of the European mainland. The United Kingdom includes the island of Great Britain, the north-­eastern part of the island of Ireland, and many smaller islands within the British Isles. Northern Ireland shares a land border with the Republic of Ireland. Otherwise, the United Kingdom is surrounded by the Atlantic Ocean, with the North Sea to the east, the English Channel to the south and the Celtic Sea"
+        },
+        "ru": {
+            "name": "Великобрита́ния",
+            "description": "Великобрита́ния (русское название происходит от англ. Great Britain [ˌɡreɪt ˈbrɪtn]), или Соединённое Короле́вство (United Kingdom [jʊnaɪtɪd kɪŋdəm], сокращённо: UK), полная официальная форма — Соединённое Короле́вство Великобрита́нии и Се́верной Ирла́ндии (англ. The United Kingdom of Great Britain and Northern Ireland), — островное государство на северо-западе от континентальной Европы."
+        },
+        "uk": {
+            "name": "Велика Британія",
+            "description": "Вели́ка Брита́нія (англ. Great Britain), офіційна назва Сполу́чене Королі́вство Вели́кої Брита́нії та Півні́чної Ірла́ндії (англ. the United Kingdom of Great Britain and Northern Ireland), скорочено — Сполу́чене Королі́вство (англ. the United Kingdom) — суверенна держава, розташована на північному заході від Континентальної Європи, на Британських островах. Територія включає острів Велика Британія, північну частину острова Ірландія та численні невеликі острови[2]. Північна Ірландія — єдина частина Сполученого Королівства, що має суходільний кордон з іншою суверенною країною — Республікою Ірландією. Усі інші кордони є водними: Сполучене Королівство оточене Атлантичним Океаном, Північним морем, Англійським каналом та Ірландським морем, що утворює 12-ту за довжиною берегову лінію у світі. Ірландське море лежить між Великою Британією та Ірландією."
+        }
+    }
+}

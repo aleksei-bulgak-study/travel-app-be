@@ -1,0 +1,186 @@
+{
+    "isoCode": "FRA",
+    "name": "France",
+    "description": "France, officially the French Republic is a country primarily located in Western Europe, consisting of metropolitan France and several overseas regions and territories. The metropolitan area of France extends from the Rhine to the Atlantic Ocean and from the Mediterranean Sea to the English Channel and the North Sea. The overseas territories include French Guiana in South America and several islands in the Atlantic, Pacific and Indian Oceans. France borders Belgium, Luxembourg and Germany to the northeast, Switzerland, Monaco and Italy to the east, Andorra and Spain to the south, as well as the Netherlands, Suriname and Brazil in the Americas. The country's eighteen integral regions (five of which are situated overseas) span a combined area of 643,801 km2 (248,573 sq mi) and a total population of 67.4 million (as of February 2021). France is a unitary semi-presidential republic with its capital in Paris, the country's largest city and main cultural and commercial centre. Other major urban areas include Lyon, Marseille, Toulouse, Bordeaux, Lille and Nice. France, including its overseas territories, has the most time zones of any country, with a total of twelve.",
+    "image": "https://s.france24.com/media/display/463c50cc-78bb-11e9-a9bf-005056a964fe/w:980/p:16x9/paris_tourism_-_eiffel_tower.webp",
+    "video": "https://www.youtube.com/watch?v=56bWMAEvSdA",
+    "currency": {
+        "code": "EUR",
+        "name": "Euro",
+        "translations": {
+            "en": {
+                "name": "Euro"
+            },
+            "ru": {
+                "name": "Евро"
+            },
+            "uk": {
+                "name": "Євро"
+            }
+        }
+    },
+    "timezone": {
+        "name": "Europe/Paris",
+        "offset": "+0100"
+    },
+    "capital": {
+        "name": "Paris",
+        "coordinates": {
+            "lat": 48.8566969,
+            "lon": 2.3514616
+        },
+        "translations": {
+            "en": {
+                "name": "Paris"
+            },
+            "ru": {
+                "name": "Париж"
+            },
+            "uk": {
+                "name": "Париж"
+            }
+        }
+    },
+    "sights": [
+        {
+            "id": "473d87b8-3b8a-4f3c-adcf-a5fe7f694edd",
+            "name": "Eiffel Tower",
+            "description": "The Eiffel Tower is a wrought-iron lattice tower on the Champ de Mars in Paris, France. It is named after the engineer Gustave Eiffel, whose company designed and built the tower. Locally nicknamed \"La dame de fer\" (French for \"Iron Lady\"), it was constructed from 1887 to 1889 as the entrance to the 1889 World's Fair and was initially criticised by some of France's leading artists and intellectuals for its design, but it has become a global cultural icon of France and one of the most recognisable structures in the world. The Eiffel Tower is the most-visited paid monument in the world; 6.91 million people ascended it in 2015.",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Tour_Eiffel_Wikimedia_Commons_%28cropped%29.jpg/300px-Tour_Eiffel_Wikimedia_Commons_%28cropped%29.jpg",
+            "rating": [],
+            "translations": {
+                "en": {
+                    "name": "Eiffel Tower",
+                    "description": "The Eiffel Tower is a wrought-iron lattice tower on the Champ de Mars in Paris, France. It is named after the engineer Gustave Eiffel, whose company designed and built the tower. Locally nicknamed \"La dame de fer\" (French for \"Iron Lady\"), it was constructed from 1887 to 1889 as the entrance to the 1889 World's Fair and was initially criticised by some of France's leading artists and intellectuals for its design, but it has become a global cultural icon of France and one of the most recognisable structures in the world. The Eiffel Tower is the most-visited paid monument in the world; 6.91 million people ascended it in 2015."
+                },
+                "ru": {
+                    "name": "Эйфелева башня",
+                    "description": "Э́йфелева ба́шня  — металлическая башня в центре Парижа, самая узнаваемая его архитектурная достопримечательность. Названа в честь главного конструктора Гюстава Эйфеля; сам Эйфель называл её просто «300-метровой башней» (tour de 300 mètres). Башня, впоследствии ставшая символом Парижа, была построена в 1889 году и первоначально задумывалась как временное сооружение, служившее входной аркой парижской Всемирной выставки 1889 года."
+                },
+                "uk": {
+                    "name": "Ейфелева вежа",
+                    "description": "Е́йфелева ве́жа — архітектурна пам'ятка Парижа, розміщена на Марсовому полі, символ сучасної Франції. Вежу названо на честь її конструктора Густава Ейфеля. Сам Ейфель називав її «300-метровою вежею» (фр. tour de 300 mètres), інша, народна назва — «Залізна пані» (фр. La dame de fer). Популярний туристичний об'єкт, щорічно приймає понад 6 мільйонів відвідувачів. У 2007 році на вежі побувало 6 893 000 осіб, що на 78 000 відвідувачів більше, ніж у 2006, а за її історію з 1889 до 31 грудня 2007 року — 236 445 812 осіб. Вежа стала найвідвідуванішою і найфотографованішою туристичною пам'яткою світу."
+                }
+            }
+        },
+        {
+            "id": "6f6845eb-fb86-458e-b493-55ccb4d8e04d",
+            "name": "Louvre",
+            "description": "The Louvre, is the world's largest art museum and a historic monument in Paris, France, and is best known for being the home of the Mona Lisa. A central landmark of the city, it is located on the Right Bank of the Seine in the city's 1st arrondissement (district or ward). Approximately 38,000 objects from prehistory to the 21st century are exhibited over an area of 72,735 square meters (782,910 square feet). In 2019, the Louvre received 9.6 million visitors, making it the most visited museum in the world. However, the number of visitors plunged by 72 percent to 2.7 million visitors in 2020, due to the COVID-19 pandemic and the drop in the number of foreign visitors.",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Louvre_Museum_Wikimedia_Commons.jpg/274px-Louvre_Museum_Wikimedia_Commons.jpg",
+            "rating": [],
+            "translations": {
+                "en": {
+                    "name": "Louvre",
+                    "description": "The Louvre, is the world's largest art museum and a historic monument in Paris, France, and is best known for being the home of the Mona Lisa. A central landmark of the city, it is located on the Right Bank of the Seine in the city's 1st arrondissement (district or ward). Approximately 38,000 objects from prehistory to the 21st century are exhibited over an area of 72,735 square meters (782,910 square feet). In 2019, the Louvre received 9.6 million visitors, making it the most visited museum in the world. However, the number of visitors plunged by 72 percent to 2.7 million visitors in 2020, due to the COVID-19 pandemic and the drop in the number of foreign visitors."
+                },
+                "ru": {
+                    "name": "Лувр",
+                    "description": "Музей Лувра — один из крупнейших и самый популярный художественный музей мира. Музей расположен в центре Парижа, на правом берегу Сены, на улице Риволи, в 1-м округе столицы. В 2018 году число посетителей Лувра превысило 10 млн человек, что является рекордом"
+                },
+                "uk": {
+                    "name": "Лувр",
+                    "description": "Музе́й Лу́вру (фр. Musée du Louvre) — один з найбільших музеїв світу, розташований на правому березі Сени в першому окрузі Парижа. Музей було відкрито 1793 року під назвою Центрального музею мистецтв Республіки. Лувр демонструє 35 000 експонатів, від найдавніших часів до XIX століття на виставковій площі 72 735 м². "
+                }
+            }
+        },
+        {
+            "id": "98f374a2-f751-4e90-afac-3e3b3b6b7d04",
+            "name": "Notre-Dame de Paris",
+            "description": "Notre-Dame de Paris, referred to simply as Notre-Dame, is a medieval Catholic cathedral on the Île de la Cité in the 4th arrondissement of Paris. The cathedral was consecrated to the Virgin Mary and considered to be one of the finest examples of French Gothic architecture. Its pioneering use of the rib vault and flying buttress, its enormous and colourful rose windows, as well as the naturalism and abundance of its sculptural decoration set it apart from the earlier Romanesque style. Major components that make Notre Dame stand out include its large historic organ and its immense church bells.",
+            "image": "https://commons.wikimedia.org/wiki/File:2016-02-23_15-48-06_paris.jpg?uselang=ru",
+            "rating": [],
+            "translations": {
+                "en": {
+                    "name": "Notre-Dame de Paris",
+                    "description": "Notre-Dame de Paris, referred to simply as Notre-Dame, is a medieval Catholic cathedral on the Île de la Cité in the 4th arrondissement of Paris. The cathedral was consecrated to the Virgin Mary and considered to be one of the finest examples of French Gothic architecture. Its pioneering use of the rib vault and flying buttress, its enormous and colourful rose windows, as well as the naturalism and abundance of its sculptural decoration set it apart from the earlier Romanesque style. Major components that make Notre Dame stand out include its large historic organ and its immense church bells."
+                },
+                "ru": {
+                    "name": "Собор Парижской Богоматери",
+                    "description": "Собо́р Пари́жской Богома́тери, также парижский собор Нотр-Да́м или Нотр-Да́м-де-Пари́ (фр. Notre-Dame de Paris) — католический храм в центре Парижа, один из символов французской столицы. Кафедральный собор архиепархии Парижа. Расположен в восточной части острова Сите, в 4-м городском округе, на месте первой христианской церкви Парижа — базилики Святого Стефана, построенной, в свою очередь, на фундаменте галло-римского храма Юпитера. Готический собор возводился по инициативе парижского епископа Мориса де Сюлли в период 1163—1345 годов. Алтарная часть освящена в 1182 году; западный фасад и башни закончены во второй четверти XIII века. С 1235 года вносились большие изменения: обустроены часовни между контрфорсами нефа (сер. XIII века); увеличен размер трансепта (архитекторы Жан де Шель с 1250 и Пьер де Монтрёй вплоть до 1267); добавлены часовни хора (Пьер де Шельи Жан Рави в нач. XIV в.) и большие аркбутаны деамбулатория (Жан Рави, нач. XIV в.). В XIX веке под руководством Виолле-ле-Дюка отреставрирована повреждённая в Революцию скульптурная часть, восстановлены витражные розы нефа и возведён новый шпиль вместо утраченного."
+                },
+                "uk": {
+                    "name": "Собор Паризької Богоматері",
+                    "description": "Собо́р Пари́зької Богома́тері (Нотр-Дам де Парі) (фр. Notre Dame de Paris) — собор у Парижі (Франція), присвячений Діві Марії, матері Ісуса Христа, кафедральний храм Паризької архідіоцезії. Один з найпрекрасніших витворів готичного мистецтва. Стоїть на острові Сіте, на місці першої християнської церкви Парижа, базиліки Святого Стефана. Ця церква була побудована на місці галло-римського храму Юпітерові, що стояв тут за часів римської влади. Собор є п'ятинефною базилікою. Висота будівлі становить 35 м, довжина — 130 м, ширина — 48 м. Висота дзвіниць — 69 м, вага дзвона Емануель у східній вежі — 15 тонн."
+                }
+            }
+        },
+        {
+            "id": "2c82cca7-f1e0-435a-9d60-4ce2eb8f163d",
+            "name": "Arc de Triomphe",
+            "description": "The Arc de Triomphe de l'Étoile is one of the most famous monuments in Paris, France, standing at the western end of the Champs-Élysées at the centre of Place Charles de Gaulle, formerly named Place de l'Étoile—the étoile or \"star\" of the juncture formed by its twelve radiating avenues. The location of the arc and the plaza is shared between three arrondissements, 16th (south and west), 17th (north), and 8th (east). The Arc de Triomphe honours those who fought and died for France in the French Revolutionary and Napoleonic Wars, with the names of all French victories and generals inscribed on its inner and outer surfaces. Beneath its vault lies the Tomb of the Unknown Soldier from World War I.",
+            "image": "https://commons.wikimedia.org/wiki/File:Arc_de_Triomphe,_Paris_21_October_2010.jpg?uselang=ru",
+            "rating": [],
+            "translations": {
+                "en": {
+                    "name": "Arc de Triomphe",
+                    "description": "The Arc de Triomphe de l'Étoile is one of the most famous monuments in Paris, France, standing at the western end of the Champs-Élysées at the centre of Place Charles de Gaulle, formerly named Place de l'Étoile—the étoile or \"star\" of the juncture formed by its twelve radiating avenues. The location of the arc and the plaza is shared between three arrondissements, 16th (south and west), 17th (north), and 8th (east). The Arc de Triomphe honours those who fought and died for France in the French Revolutionary and Napoleonic Wars, with the names of all French victories and generals inscribed on its inner and outer surfaces. Beneath its vault lies the Tomb of the Unknown Soldier from World War I."
+                },
+                "ru": {
+                    "name": "Триумфальная арка",
+                    "description": "Триумфальная арка (фр. Arc de triomphe de l’Étoile) — монумент в 8-м округе Парижа на площади Шарля де Голля (Звезды), возведённый в 1806—1836 годах по проекту архитектора французского ампира Жана-Франсуа Шальгрена. Проект арки «в древнеримском стиле» был разработан по распоряжению Наполеона Бонапарта в ознаменование побед его «Великой армии». За основу была взята композиция однопролётной Триумфальной арки Тита на римском Форуме. После смерти Шальгрена в 1811 году строительство продолжал архитектор Жан-Арно Реймон. "
+                },
+                "uk": {
+                    "name": "Тріумфальна арка",
+                    "description": "Паризька тріумфальна арка (фр. arc de triomphe de l’Étoile, досл.: «тріумфальна арка Зірки») — тріумфальна арка, розташована на площі Шарля де Голля (Place Charles-de-Gaulle) у столиці Франції місті Парижі. Тріумфальна арка є одним з найвідоміших паризьких монументів, одним із міських символів. "
+                }
+            }
+        },
+        {
+            "id": "6578a34f-211a-49a2-b571-a2ca6181910d",
+            "name": "Palace of Versailles",
+            "description": "The Palace of Versailles Château de Versailles was the principal royal residence of France from 1682, under Louis XIV, until the start of the French Revolution in 1789, under Louis XVI. It is located in the department of Yvelines, in the region of Île-de-France, about 20 kilometres (12 miles) southwest of the centre of Paris.",
+            "image": "https://commons.wikimedia.org/wiki/File:Vue_a%C3%A9rienne_du_domaine_de_Versailles_par_ToucanWings_-_Creative_Commons_By_Sa_3.0_-_083.jpg?uselang=ru",
+            "rating": [],
+            "translations": {
+                "en": {
+                    "name": "Palace of Versailles",
+                    "description": "The Palace of Versailles Château de Versailles was the principal royal residence of France from 1682, under Louis XIV, until the start of the French Revolution in 1789, under Louis XVI. It is located in the department of Yvelines, in the region of Île-de-France, about 20 kilometres (12 miles) southwest of the centre of Paris."
+                },
+                "ru": {
+                    "name": "Версаль",
+                    "description": "Верса́ль — дворцово-парковый ансамбль во Франции, бывшая резиденция французских королей в городе Версале, ныне являющемся пригородом Парижа; центр туризма мирового значения."
+                },
+                "uk": {
+                    "name": "Версальський палац",
+                    "description": "Версальський палац або Версаль — палац у Версалі, колишня резиденція французьких королів. Побудований в стилі класицизму у 1661-1710 рр. на місці замку Людовика ХІІІ (фактично увібравши Старий замок) Новий замок (фр. Château Neuf) разом з величезними Версальськими садами, Великим та Малим Тріанонами, Селом королеви складають єдиний палацово-парковий комплекс."
+                }
+            }
+        },
+        {
+            "id": "b041fd7f-5913-48a0-b926-1ec58c622dcc",
+            "name": "Champs-Élysées",
+            "description": "The Avenue des Champs-Élysées is an avenue in the 8th arrondissement of Paris, France, 1.9 kilometres (1.2 mi) long and 70 metres (230 ft) wide, running between the Place de la Concorde and the Place Charles de Gaulle, where the Arc de Triomphe is located. It is known for its theatres, cafés, and luxury shops, for the annual Bastille Day military parade, and as the finish of the Tour de France cycling race.",
+            "image": "https://commons.wikimedia.org/wiki/File:Triumfb%C3%A5gen,_Paris2.JPG?uselang=ru",
+            "rating": [],
+            "translations": {
+                "en": {
+                    "name": "Champs-Élysées",
+                    "description": "The Avenue des Champs-Élysées is an avenue in the 8th arrondissement of Paris, France, 1.9 kilometres (1.2 mi) long and 70 metres (230 ft) wide, running between the Place de la Concorde and the Place Charles de Gaulle, where the Arc de Triomphe is located. It is known for its theatres, cafés, and luxury shops, for the annual Bastille Day military parade, and as the finish of the Tour de France cycling race."
+                },
+                "ru": {
+                    "name": "Елисейские поля",
+                    "description": "Елисе́йские поля́, или Шанз-Элизе́, — центральная улица Парижа, одна из главных магистралей VIII округа французской столицы. Елисейские поля простираются от площади Конкорд (Согласия) до Триумфальной арки. Длина — 1915 м, ширина — 71 м."
+                },
+                "uk": {
+                    "name": "Єлисейські Поля",
+                    "description": "Єлисейські Поля — одна з головних магістралей Парижа. Назва походить від Елізіума в грецькій міфології. Довжина становить 1915 метрів, ширина — 71 метр."
+                }
+            }
+        }
+    ],
+    "translations": {
+        "en": {
+            "name": "France",
+            "description": "France, officially the French Republic is a country primarily located in Western Europe, consisting of metropolitan France and several overseas regions and territories. The metropolitan area of France extends from the Rhine to the Atlantic Ocean and from the Mediterranean Sea to the English Channel and the North Sea. The overseas territories include French Guiana in South America and several islands in the Atlantic, Pacific and Indian Oceans. France borders Belgium, Luxembourg and Germany to the northeast, Switzerland, Monaco and Italy to the east, Andorra and Spain to the south, as well as the Netherlands, Suriname and Brazil in the Americas. The country's eighteen integral regions (five of which are situated overseas) span a combined area of 643,801 km2 (248,573 sq mi) and a total population of 67.4 million (as of February 2021). France is a unitary semi-presidential republic with its capital in Paris, the country's largest city and main cultural and commercial centre. Other major urban areas include Lyon, Marseille, Toulouse, Bordeaux, Lille and Nice. France, including its overseas territories, has the most time zones of any country, with a total of twelve."
+        },
+        "ru": {
+            "name": "Франция",
+            "description": "Фра́нция, официальное название — Францу́зская Респу́блика, — трансконтинентальное государство, включающее основную территорию в Западной Европе и ряд заморских регионов и территорий. Столица — Париж. Девиз Республики — «Свобода, равенство, братство», её принцип — правление народа, народом и для народа."
+        },
+        "uk": {
+            "name": "Франція",
+            "description": "Фра́нція — держава, територія якої складається з метрополії у Західній Європі та низки заморських володінь. Територія метрополії простягається від Середземного моря до Ла-Маншу та Північного моря, а також від Рейну до Атлантичного океану. Межує на північному сході з Бельгією, Люксембургом і Німеччиною, південному заході з Іспанією та Андоррою, на південному сході з Італією та Монако. До заморських територій входять Французька Гвіана в Південній Америці та кілька островів в Атлантичному, Тихому та Індійському океанах, серед яких Гваделупа, Сен-Бартелемі, Сен-Мартен, Мартиніка, Майотта, Реюньйон, Сен-П'єр і Мікелон, Нова Каледонія та Волліс і Футуна. 18 регіонів країни (5 з яких є заморськими) охоплюють загальну площу у 643 801 км² та мають населення у 67,08 мільйонів осіб (станом на 2020). Франція — унітарна змішана республіка зі столицею у місті Париж, найбільшим містом країни і її головним культурним та економічним центром. Іншими основними міськими територіями є Ліон, Марсель, Тулуза, Бордо, Лілль та Ніцца. Франція, включаючи її заморські території, має найбільшу кількість часових поясів серед усіх країн світу, 12."
+        }
+    }
+}
