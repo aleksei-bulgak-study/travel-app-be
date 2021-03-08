@@ -15,7 +15,10 @@ const sightsService = new SightsService();
 const userService = new UserService();
 
 const app = express();
-app.use(cors())
+app.use(cors({
+  origin: '*',
+  optionsSuccessStatus: 200 // some legacy browsers (IE11, various SmartTVs) choke on 204
+}))
 app.use(express.json());
 app.use(fileUpload());
 app.use(SwaggerRouter);
@@ -28,7 +31,7 @@ app.use('*', (req: Request, res: Response): void => {
 
 app.use(errorHandler);
 
-const port = process.env['PORT'] || 3000;
+const port = process.env['PORT'] || 3001;
 app.listen(port, () => {
   console.log(`starting application at port ${port}`);
 });
