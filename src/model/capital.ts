@@ -23,7 +23,6 @@ type TranslationFields = {
 
 const TranslationFieldsSchema: Schema = new Schema({
   name: { type: String, required: true, unique: true },
-  description: { type: String, required: true},
 });
 
 const CapitalTranslationSchema: Schema = new Schema({
@@ -38,7 +37,6 @@ const CoordinatesSchema: Schema = new Schema({
 });
 
 export const CapitalSchema: Schema = new Schema({
-  code: { type: String, required: true, unique: true },
   name: { type: String, required: true, unique: true },
   coordinates: { type: CoordinatesSchema, required: true },
   translations: { type: CapitalTranslationSchema, required: true }

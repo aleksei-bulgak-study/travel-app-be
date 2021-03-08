@@ -7,6 +7,6 @@ export type Timezone = {
 
 
 export const TimezoneSchema: Schema = new Schema({
-    name: { type: String, required: true, unique: true },
-    offset: { type: String, required: true, unique: true },
+    name: { type: String, required: true },
+    offset: { type: String, required: true},
   });

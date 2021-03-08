@@ -17,7 +17,7 @@ type TranslationFields = {
 };
 
 const TranslationFieldsSchema: Schema = new Schema({
-  name: { type: String, required: true, unique: true }
+  name: { type: String, required: true }
 });
 
 const CurrencyTranslationSchema: Schema = new Schema({

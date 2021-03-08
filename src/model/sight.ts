@@ -26,7 +26,7 @@ type TranslationFields = {
 };
 
 const TranslationFieldsSchema: Schema = new Schema({
-  name: { type: String, required: true, unique: true },
+  name: { type: String, required: true },
   description: { type: String, required: true},
 });
 
@@ -37,7 +37,7 @@ const SightTranslationSchema: Schema = new Schema({
 });
 
 const RatingSchema: Schema = new Schema({
-  username: { type: String, required: true, unique: true },
+  username: { type: String, required: true },
   rate: { type: Number, required: true },
 });
 

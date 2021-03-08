@@ -1,0 +1,186 @@
+{
+    "isoCode": "DEU",
+    "name": "Germany",
+    "description": "Germany, officially the Federal Republic of Germany,[e] is a country at the intersection of Central and Western Europe. It is situated between the Baltic and North seas to the north, and the Alps to the south; covering an area of 357,022 square kilometres (137,847 sq mi), with a population of over 83 million within its 16 constituent states. It borders Denmark to the north, Poland and the Czech Republic to the east, Austria and Switzerland to the south, and France, Luxembourg, Belgium, and the Netherlands to the west. Germany is the second-most populous country in Europe after Russia, as well as the most populous member state of the European Union. Its capital and largest city is Berlin, and its financial centre is Frankfurt; the largest urban area is the Ruhr.",
+    "image": "https://www.ledgerinsights.com/wp-content/uploads/2019/09/germany-810x476.jpg",
+    "video": "https://www.youtube.com/watch?v=SO9tUbxIIWU",
+    "currency": {
+        "code": "EUR",
+        "name": "Euro",
+        "translations": {
+            "en": {
+                "name": "Euro"
+            },
+            "ru": {
+                "name": "Евро"
+            },
+            "uk": {
+                "name": "Євро"
+            }
+        }
+    },
+    "timezone": {
+        "name": "Europe/Berlin",
+        "offset": "+0100"
+    },
+    "capital": {
+        "name": "Berlin",
+        "coordinates": {
+            "lat": 52.537729,
+            "lon": 13.3503029
+        },
+        "translations": {
+            "en": {
+                "name": "Berlin"
+            },
+            "ru": {
+                "name": "Берлин"
+            },
+            "uk": {
+                "name": "Берлін"
+            }
+        }
+    },
+    "sights": [
+        {
+            "id": "1a958982-c560-4d64-97fb-6d6d891b6c1a",
+            "name": "Berlin Victory Column",
+            "description": "The Victory Column (German: About this soundSiegessäule (help·info), from Sieg ‘victory’ + Säule ‘column’) is a monument in Berlin, Germany. Designed by Heinrich Strack after 1864 to commemorate the Prussian victory in the Second Schleswig War, by the time it was inaugurated on 2 September 1873, Prussia had also defeated Austria and its German allies in the Austro-Prussian War (1866) and France in the Franco-Prussian War (1870–71), giving the statue a new purpose. Different from the original plans, these later victories in the so-called unification wars inspired the addition of the bronze sculpture of Victoria, the Roman goddess of victory, 8.3 metres (27 ft) high and weighing 35 tonnes, designed by Friedrich Drake. Berliners have given the statue the nickname Goldelse, meaning something like Golden Lizzy",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Berliner_Siegess%C3%A4ule_2012-04.jpg/170px-Berliner_Siegess%C3%A4ule_2012-04.jpg",
+            "rating": [],
+            "translations": {
+                "en": {
+                    "name": "Berlin Victory Column",
+                    "description": "The Victory Column (German: About this soundSiegessäule (help·info), from Sieg ‘victory’ + Säule ‘column’) is a monument in Berlin, Germany. Designed by Heinrich Strack after 1864 to commemorate the Prussian victory in the Second Schleswig War, by the time it was inaugurated on 2 September 1873, Prussia had also defeated Austria and its German allies in the Austro-Prussian War (1866) and France in the Franco-Prussian War (1870–71), giving the statue a new purpose. Different from the original plans, these later victories in the so-called unification wars inspired the addition of the bronze sculpture of Victoria, the Roman goddess of victory, 8.3 metres (27 ft) high and weighing 35 tonnes, designed by Friedrich Drake. Berliners have given the statue the nickname Goldelse, meaning something like Golden Lizzy"
+                },
+                "ru": {
+                    "name": "Колонна Победы",
+                    "description": "Колонна Победы (нем. Siegessäule) — памятник в центре Берлина в Большом Тиргартене на площади Большая Звезда. Построена по проекту архитектора Генриха Штрака в 1864—1873 годах как национальный памятник объединительным войнам Германии. Охраняется государством как памятник архитектуры Берлина."
+                },
+                "uk": {
+                    "name": "Колона перемоги",
+                    "description": "Колона перемоги (нім. Siegessäule) — пам'ятник історії Німеччини й визначна пам'ятка Берліна. Автор проекту, архітектор Йоган Генріх Штрак (1805–1880) — учень Карла Фрідріха Шинкеля. Автор фігури, що вінчає колону, скульптор Фрідріх Драке."
+                }
+            }
+        },
+        {
+            "id": "608e317b-32bb-4bb4-85de-e757755b2f15",
+            "name": "Cologne Cathedral",
+            "description": "Cologne Cathedral (German: Kölner Dom, officially Hohe Domkirche Sankt Petrus, English: Cathedral Church of Saint Peter) is a Catholic cathedral in Cologne, North Rhine-Westphalia, Germany. It is the seat of the Archbishop of Cologne and of the administration of the Archdiocese of Cologne. It is a renowned monument of German Catholicism and Gothic architecture and was declared a World Heritage Site in 1996. It is Germany's most visited landmark, attracting an average of 20,000 people a day. At 157 m (515 ft), the cathedral is currently the tallest twin-spired church in the world, the second tallest church in Europe after Ulm Minster, and the third tallest church in the world.[7] It is the largest Gothic church in Northern Europe and has the second-tallest spires. The towers for its two huge spires give the cathedral the largest façade of any church in the world. The choir has the largest height to width ratio, 3.6:1, of any medieval church.",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/K%C3%B6lner_Dom_von_Osten.jpg/335px-K%C3%B6lner_Dom_von_Osten.jpg",
+            "rating": [],
+            "translations": {
+                "en": {
+                    "name": "Cologne Cathedral",
+                    "description": "Cologne Cathedral (German: Kölner Dom, officially Hohe Domkirche Sankt Petrus, English: Cathedral Church of Saint Peter) is a Catholic cathedral in Cologne, North Rhine-Westphalia, Germany. It is the seat of the Archbishop of Cologne and of the administration of the Archdiocese of Cologne. It is a renowned monument of German Catholicism and Gothic architecture and was declared a World Heritage Site in 1996. It is Germany's most visited landmark, attracting an average of 20,000 people a day. At 157 m (515 ft), the cathedral is currently the tallest twin-spired church in the world, the second tallest church in Europe after Ulm Minster, and the third tallest church in the world.[7] It is the largest Gothic church in Northern Europe and has the second-tallest spires. The towers for its two huge spires give the cathedral the largest façade of any church in the world. The choir has the largest height to width ratio, 3.6:1, of any medieval church."
+                },
+                "ru": {
+                    "name": "Кёльнский собор",
+                    "description": "Кёльнский собор (нем. Kölner Dom) — римско-католический готический собор в городе Кёльне. Занимает третье место в списке самых высоких церквей мира и внесён в список объектов Всемирного культурного наследия. Строительство главного храма Кёльнской архиепископии велось в два приёма — в 1248—1437 гг. и в 1842—1880 годах. По окончании строительства 157-метровый собор на четыре года стал самым высоким зданием мира."
+                },
+                "uk": {
+                    "name": "Кельнський собор",
+                    "description": "Ке́льнський собо́р (нім. Kölner Dom, офіційно Hohe Domkirche St. Peter und Maria) — римо-католицька церква в Кельні, Німеччина. Осідок архієпископа Кельнського (нині — кардинал Райнер Марія Велькі), і парафія підпорядковується адміністрації Кельнської архидієцезії. Відомий як пам'ятка християнства та Німецького католицизму зокрема, готичної архітектури, символ тривалої віри і стійкості людей міста, в якому він стоїть. Собор присвячений святому Петру і Пресвятій Діві Марії. У ньому також зберігаються мощі Трьох Царів та святої Ірмґардіс. Собор входить до Світової спадщини, це один з найвідоміших архітектурних об'єктів Німеччини та найзнаменитіша пам'ятка Кельна, яку ЮНЕСКО описує як «виняткову роботу людського творчого генія»."
+                }
+            }
+        },
+        {
+            "id": "30a93359-82b5-4276-9a97-285d5a54e335",
+            "name": "Reichstag building",
+            "description": "The Reichstag (German: Reichstagsgebäude [ˈʁaɪçstaːksɡəˌbɔʏdə]; officially: Deutscher Bundestag – Plenarbereich Reichstagsgebäude [ˈdɔʏtʃɐ ˈbʊndəsˌtaːk ˈpleːnaːɐ̯bəˌʁaɪç ˈʁaɪçstaːksɡəˌbɔʏdə]) is a historic edifice in Berlin, Germany, constructed to house the Imperial Diet (German: Reichstag) of the German Empire. It was opened in 1894 and housed the Diet until 1933, when it was severely damaged after being set on fire. After World War II, the building fell into disuse; the parliament of the German Democratic Republic (the Volkskammer) met in the Palast der Republik in East Berlin, while the parliament of the Federal Republic of Germany (the Bundestag) met in the Bundeshaus in Bonn.",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Berlin_reichstag_west_panorama_2.jpg/300px-Berlin_reichstag_west_panorama_2.jpg",
+            "rating": [],
+            "translations": {
+                "en": {
+                    "name": "Reichstag building",
+                    "description": "The Reichstag (German: Reichstagsgebäude [ˈʁaɪçstaːksɡəˌbɔʏdə]; officially: Deutscher Bundestag – Plenarbereich Reichstagsgebäude [ˈdɔʏtʃɐ ˈbʊndəsˌtaːk ˈpleːnaːɐ̯bəˌʁaɪç ˈʁaɪçstaːksɡəˌbɔʏdə]) is a historic edifice in Berlin, Germany, constructed to house the Imperial Diet (German: Reichstag) of the German Empire. It was opened in 1894 and housed the Diet until 1933, when it was severely damaged after being set on fire. After World War II, the building fell into disuse; the parliament of the German Democratic Republic (the Volkskammer) met in the Palast der Republik in East Berlin, while the parliament of the Federal Republic of Germany (the Bundestag) met in the Bundeshaus in Bonn."
+                },
+                "ru": {
+                    "name": "Рейхстаг",
+                    "description": "Здание рейхста́га или Рейхстаг (Reichstagsgebäude (инф.) — «здание имперского собрания») — историческое здание в Берлине, где в 1894—1933 годах заседал одноимённый государственный орган Германии — рейхстаг Германской империи и рейхстаг Веймарской республики. В 1945 году в Советском Союзе здание германского парламента было объявлено главным символом гитлеровской Германии. И.В. Сталин приказал водрузить на нём Знамя Победы. С 1999 года в реконструированном здании рейхстага размещается бундестаг."
+                },
+                "uk": {
+                    "name": "Райхстаг",
+                    "description": "Будівля Райхстагу — знаменита історична будівля у Берліні, де у 1894–1933 роках засідав однойменний державний орган Німеччини — Райхстаг Німецької імперії і Райхстаг Веймарської республіки , а з 1999 року розміщується Бундестаг."
+                }
+            }
+        },
+        {
+            "id": "56d9d51c-146b-41a6-a2c1-271e90039578",
+            "name": "Brandenburg Gate",
+            "description": "The Brandenburg Gate (German: Brandenburger Tor; [ˈbʁandn̩bʊɐ̯gɐ ˈtoːɐ̯]) is an 18th-century neoclassical monument in Berlin, built on the orders of Prussian king Frederick William II after the temporary restoration of order during the Batavian Revolution. One of the best-known landmarks of Germany, it was built on the site of a former city gate that marked the start of the road from Berlin to the town of Brandenburg an der Havel, which used to be capital of the Margraviate of Brandenburg.",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Brandenburger_Tor_abends.jpg/240px-Brandenburger_Tor_abends.jpg",
+            "rating": [],
+            "translations": {
+                "en": {
+                    "name": "Brandenburg Gate",
+                    "description": "The Brandenburg Gate (German: Brandenburger Tor; [ˈbʁandn̩bʊɐ̯gɐ ˈtoːɐ̯]) is an 18th-century neoclassical monument in Berlin, built on the orders of Prussian king Frederick William II after the temporary restoration of order during the Batavian Revolution. One of the best-known landmarks of Germany, it was built on the site of a former city gate that marked the start of the road from Berlin to the town of Brandenburg an der Havel, which used to be capital of the Margraviate of Brandenburg."
+                },
+                "ru": {
+                    "name": "Бранденбургские ворота",
+                    "description": "Бранденбу́ргские воро́та (нем. Brandenburger Tor) — единственные сохранившиеся городские ворота Берлина, главный символ города. Расположены в центральном районе Митте на Парижской площади, где бульвар Унтер-ден-Линден сходится с Тиргартеном. Эти ворота Берлинской таможенной стены были возведены в 1788—1791 годах в ознаменование установления мира в Нидерландах"
+                },
+                "uk": {
+                    "name": "Бранденбурзькі ворота",
+                    "description": "Бранденбурзькі ворота (нім. Brandenburger Tor) — архітектурна пам'ятка в Берліні (Німеччина). Автор проекту Карл Готтард Ланґганс. Будівництво тривало протягом трьох років (1788–1791), висота становить двадцять метрів. Це перша споруда міста в стилі німецького класицизму. Створена вона за зразком Пропілей афінського Акрополя. Увінчує ворота шестиметрова бронзова квадрига (скульптор Йоганн Готфрид Шадоу), якою управляє богиня перемоги Вікторія. Брандербурзькі ворота мали на меті персоніфікувати міць пруської армії."
+                }
+            }
+        },
+        {
+            "id": "72471507-4a76-4f04-a903-28f4c5c4a439",
+            "name": "Neuschwanstein Castle",
+            "description": "Neuschwanstein Castle (German: Schloss Neuschwanstein, pronounced [ˈʃlɔs nɔʏˈʃvaːnʃtaɪn], Southern Bavarian: Schloss Neischwanstoa) is a 19th-century romantic eclecticism palace on a rugged hill above the village of Hohenschwangau near Füssen in southwest Bavaria, Germany. The palace was commissioned by King Ludwig II of Bavaria as a retreat and in honour of Richard Wagner. Ludwig paid for the palace out of his personal fortune and by means of extensive borrowing, rather than Bavarian public funds.",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Neuschwanstein_castle.jpg/300px-Neuschwanstein_castle.jpg",
+            "rating": [],
+            "translations": {
+                "en": {
+                    "name": "Neuschwanstein Castle",
+                    "description": "Neuschwanstein Castle (German: Schloss Neuschwanstein, pronounced [ˈʃlɔs nɔʏˈʃvaːnʃtaɪn], Southern Bavarian: Schloss Neischwanstoa) is a 19th-century romantic eclecticism palace on a rugged hill above the village of Hohenschwangau near Füssen in southwest Bavaria, Germany. The palace was commissioned by King Ludwig II of Bavaria as a retreat and in honour of Richard Wagner. Ludwig paid for the palace out of his personal fortune and by means of extensive borrowing, rather than Bavarian public funds."
+                },
+                "ru": {
+                    "name": "Нойшванштайн",
+                    "description": "Замок Нойшванштайн (также Нёйшванште́йн, нем. Schloss Neuschwanstein [nɔy’ʃvanʃtain], буквально: «Новый лебединый камень (утёс)») — романтический замок баварского короля Людвига II около городка Фюссен и замка Хоэншвангау в юго-западной Баварии, недалеко от австрийской границы. Одно из самых популярных среди туристов мест на юге Германии."
+                },
+                "uk": {
+                    "name": "Нойшванштайн",
+                    "description": "Замок Нойшванштайн (нім. Schloss Neuschwanstein, МФА: [nɔy’ʃvanʃtain] — «Нова лебедина скеля») — замок XIX століття, що знаходиться поблизу містечка Фюссен та замку Гоеншванґау в південно-західній Баварії, недалеко від австрійського кордону. Палац є колишньою резиденцією останнього короля Баварії Людвіга II, і був побудований на його замовлення на знак пошани до Ріхарда Вагнера. Замок повинен був стати особистим притулком короля, але був відкритий для публіки невдовзі після смерті Людвіга у 1886 році. З того часу його відвідало більше ніж 61 мільйон осіб зі всього світу. За різними оцінками Нойшванштайн є «найгарнішим» із замків і палаців Німеччини. Щороку замок відвідує понад 1,3 млн відвідувачів, а в літній час кількість туристів складає майже 6 000 за добу."
+                }
+            }
+        },
+        {
+            "id": "0d735709-29b0-475b-851e-c7ff3840842a",
+            "name": "Sanssouci",
+            "description": "Sanssouci is a historical building in Potsdam, near Berlin. Built by Frederick the Great, King of Prussia, as his summer palace, it is often counted among the German rivals of Versailles. While Sanssouci is in the more intimate Rococo style and is far smaller than its French Baroque counterpart, it too is notable for the numerous temples and follies in the park. The palace was designed/built by Georg Wenzeslaus von Knobelsdorff between 1745 and 1747 to fulfill King Frederick's need for a private residence where he could relax away from the pomp and ceremony of the Berlin court. The palace's name emphasises this; it is a French phrase (sans souci), which translates as \"without concerns\", meaning \"without worries\" or \"carefree\", symbolising that the palace was a place for relaxation rather than a seat of power. The name in past times reflected a play on words, with the insertion of a comma visible between the words Sans and Souci, viz. Sans, Souci. Kittsteiner theorizes that this could be a philosophical play on words, meaning \"without a worry/concern\" or it could be some secret personal message which nobody has interpreted, left to posterity by Frederick II.",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Potsdam_schloss_sanssouci_b.jpg/274px-Potsdam_schloss_sanssouci_b.jpg",
+            "rating": [],
+            "translations": {
+                "en": {
+                    "name": "Sanssouci",
+                    "description": "Sanssouci is a historical building in Potsdam, near Berlin. Built by Frederick the Great, King of Prussia, as his summer palace, it is often counted among the German rivals of Versailles. While Sanssouci is in the more intimate Rococo style and is far smaller than its French Baroque counterpart, it too is notable for the numerous temples and follies in the park. The palace was designed/built by Georg Wenzeslaus von Knobelsdorff between 1745 and 1747 to fulfill King Frederick's need for a private residence where he could relax away from the pomp and ceremony of the Berlin court. The palace's name emphasises this; it is a French phrase (sans souci), which translates as \"without concerns\", meaning \"without worries\" or \"carefree\", symbolising that the palace was a place for relaxation rather than a seat of power. The name in past times reflected a play on words, with the insertion of a comma visible between the words Sans and Souci, viz. Sans, Souci. Kittsteiner theorizes that this could be a philosophical play on words, meaning \"without a worry/concern\" or it could be some secret personal message which nobody has interpreted, left to posterity by Frederick II."
+                },
+                "ru": {
+                    "name": "Сан-Суси",
+                    "description": "Сан-Суси́ (от фр. sans souci — без забот) — дворец Фридриха Великого в восточной части одноимённого парка в Потсдаме (Германия). Дворец возведён в 1745—1747 годах по проекту самого короля. Практическая сторона осуществления королевского замысла была поручена близкому другу короля — архитектору Георгу Венцеслаусу фон Кнобельсдорфу."
+                },
+                "uk": {
+                    "name": "Палац Сансусі",
+                    "description": "Сансусі (нім. Sanssouci, від фр. sans-souci) — палац в Потсдамі, біля Берліна, колишня літня резиденція прусського короля Фрідріха II. Палац часто називають німецьким суперником Версаля. Хоча Сансусі збудований у скромнішому стилі Рококо та набагато менший, ніж його французький суперник, він широко відомий численними храмами і капризами у парку. Палац був спроектований Георгом фон Кнобельсдорфом між 1745 і 1747 роками з метою створення приватної резиденції, де король міг би відпочити від церемоній берлінського двору. Це підкреслюється й назвою палацу, що походить від французького словосполучення sans souci — «без турбот» — що показує, що палац є місцем відпочинку, а не центром влади. Фактично палац є великою одноповерховою віллою, він скоріш нагадує Палац Марлі, ніж Версаль. У палаці всього десять головних залів, він збудований на схилі пагорба з терасами в центрі парку. Особистий смак Фрідріха проявляється у дизайні та декораціях палацу, цей стиль отримав назву «Рококо Фрідріха». Сам Фрідріх дуже любив палац та називав його місцем «що помре з ним». Проте, через незгоду з місцем розташування палацу в парку, Кнобельсдорф був звільнений з посади керівника проекту, і будівництво було проведено під керівництвом голландського архітектора Йоганна Боуманна."
+                }
+            }
+        }
+    ],
+    "translations": {
+        "en": {
+            "name": "Germany",
+            "description": "Germany, officially the Federal Republic of Germany,[e] is a country at the intersection of Central and Western Europe. It is situated between the Baltic and North seas to the north, and the Alps to the south; covering an area of 357,022 square kilometres (137,847 sq mi), with a population of over 83 million within its 16 constituent states. It borders Denmark to the north, Poland and the Czech Republic to the east, Austria and Switzerland to the south, and France, Luxembourg, Belgium, and the Netherlands to the west. Germany is the second-most populous country in Europe after Russia, as well as the most populous member state of the European Union. Its capital and largest city is Berlin, and its financial centre is Frankfurt; the largest urban area is the Ruhr."
+        },
+        "ru": {
+            "name": "Германия",
+            "description": "Герма́ния, официальное название — Федерати́вная Респу́блика Герма́ния (нем. Bundesrepublik Deutschland), ФРГ (нем. BRD) — государство в Центральной Европе. Площадь территории — 357 408,74 км². Численность населения на 30 сентября 2019 года — 83 149 300 жителей. Занимает 18-е место в мире по численности населения (2-е в Европе) и 62-е в мире по территории (8-е в Европе)."
+        },
+        "uk": {
+            "name": "Німеччина",
+            "description": "Німе́ччина — країна в Центральній Європі, демократична федеративна республіка. Складається з 16 федеральних земель. Столиця і найбільше місто країни — Берлін. Займає площу 357 578 км². Клімат помірний сезонний. Населення — 82,9 млн осіб. Член Європейського Союзу та НАТО. Країна з найбільшою кількістю населення і найбільшим рівнем економіки в Європейському союзі. Провідна політична сила на Європейському континенті, технологічний лідер в багатьох галузях. Німеччина є другим за популярністю місцем міграції в світі, поступаючись тільки США."
+        }
+    }
+}
