@@ -1,0 +1,186 @@
+{
+  "isoCode": "USA",
+  "name": "United States of America",
+  "description": "The United States of America (USA), commonly known as the United States (U.S. or US) or America, is a country primarily located in North America. It consists of 50 states, a federal district, five major self-governing territories, 326 Indian reservations, and some minor possessions.[h] At 3.8 million square miles (9.8 million square kilometers), it is the world's third- or fourth-largest country by total area.[d] With a population of more than 328 million people, it is the third most populous country in the world. The national capital is Washington, D.C., and the most populous city is New York City.",
+  "image": "https://mir-da.ru/wp-content/uploads/2019/10/og_og_1510149953231747581.jpg",
+  "video": "https://www.youtube.com/watch?v=4Ot0T4iCXfM",
+  "currency": {
+    "code": "USD",
+    "name": "United States Dollar",
+    "translations": {
+      "en": {
+        "name": "United States Dollar"
+      },
+      "ru": {
+        "name": "Доллар США"
+      },
+      "uk": {
+        "name": "Долар США"
+      }
+    }
+  },
+  "timezone": {
+    "name": "America/New_York",
+    "offset": "-0500"
+  },
+  "capital": {
+    "name": "Washington",
+    "coordinates": {
+      "lat": 38.8950368,
+      "lon": -77.0365427
+    },
+    "translations": {
+      "en": {
+        "name": "Washington"
+      },
+      "ru": {
+        "name": "Вашингтон"
+      },
+      "uk": {
+        "name": "Вашингтон"
+      }
+    }
+  },
+  "sights": [
+    {
+      "id": "a5f345348e-126f-4t23-9285-d5434537f176d",
+      "name": "Statue of Liberty",
+      "description": "The Statue of Liberty (Liberty Enlightening the World; French: La Liberté éclairant le monde) is a colossal neoclassical sculpture on Liberty Island in New York Harbor within New York City, in the United States. The copper statue, a gift from the people of France to the people of the United States, was designed by French sculptor Frédéric Auguste Bartholdi and its metal framework was built by Gustave Eiffel. The statue was dedicated on October 28, 1886.",
+      "image": "https://wikiway.com/upload/hl-photo/7b8/01f/statuya-svobody_120.jpg",
+      "rating": [],
+      "translations": {
+        "en": {
+          "name": "Statue of Liberty",
+          "description": "The Statue of Liberty (Liberty Enlightening the World; French: La Liberté éclairant le monde) is a colossal neoclassical sculpture on Liberty Island in New York Harbor within New York City, in the United States. The copper statue, a gift from the people of France to the people of the United States, was designed by French sculptor Frédéric Auguste Bartholdi and its metal framework was built by Gustave Eiffel. The statue was dedicated on October 28, 1886."
+        },
+        "ru": {
+          "name": "Статуя Свободы",
+          "description": "Ста́туя Свобо́ды (англ. Statue of Liberty, полное название — «Свобо́да, озаря́ющая мир», англ. Liberty Enlightening the World) — колоссальная скульптура в cтиле Наполеона III, или стиле Второй империи, расположенная в США на острове Свободы, находящемся в Верхней Нью-Йоркской бухте примерно в 3 километрах к юго-западу от южной оконечности острова Манхэттен. Была сооружена как подарок США от Франции ко Всемирной выставке 1876 года и столетию американской независимости (на выставке был показан только факел статуи). Завершённую статую США получили только в 1886 году."
+        },
+        "uk": {
+          "name": "Статуя Свободи",
+          "description": "Ста́туя Свобо́ди (англ. Statue of Liberty, повна назва — Свобо́да, що ося́ює світ, англ. Liberty Enlightening the World) — національний пам'ятник США, символ свободи, демократії та справедливості. Це одна з найзнаменитіших скульптур у США та у світі, часто звана «символом Нью-Йорка і США», «символом свободи і демократії», «Леді Свобода». Це подарунок французьких громадян до сторіччя американської революції."
+        }
+      }
+    },
+    {
+      "id": "a5f4235348e-1236f-4t53-9285-d54yr54s537f176d",
+      "name": "Central Park",
+      "description": "Central Park is an urban park in New York City located between the Upper West and Upper East Sides of Manhattan. It is the fifth-largest park in the city by area, covering 843 acres (341 ha). It is the most visited urban park in the United States with an estimated 38 million visitors annually, and is the most filmed location in the world.",
+      "image": "https://wikiway.com/upload/hl-photo/3cb/443/tsentralnyy-park-nyu-yorka_251.jpg",
+      "rating": [],
+      "translations": {
+        "en": {
+          "name": "Central Park",
+          "description": "Central Park is an urban park in New York City located between the Upper West and Upper East Sides of Manhattan. It is the fifth-largest park in the city by area, covering 843 acres (341 ha). It is the most visited urban park in the United States with an estimated 38 million visitors annually, and is the most filmed location in the world."
+        },
+        "ru": {
+          "name": "Центральный парк (Нью-Йорк)",
+          "description": "Центральный парк в Нью-Йорке является одним из крупнейших в США и известнейших в мире. Парк расположен на острове Манхэттен между 59-й и 110-й улицей и Пятой и Восьмой авеню и имеет прямоугольную форму. Длина парка — около 4 километров, ширина — около 800 метров, общая площадь — 3,41 км²."
+        },
+        "uk": {
+          "name": "Центральний парк (Нью-Йорк)",
+          "description": "Центральний парк — Нью-Йорк Сіті парк — оазис зелені, розташований у самому серці Мангеттена. Займає площу 843 акрів (341 га).Центральний Парк простягається між П'ятою Авеню і Центрально-Західним Парком у східно-західному напрямку та між 110-ю стріт і 59-ю стріт у південно-північному напрямку. У цьому парку розкинулися стежки для прогулянок, штучні озера та ставки, спортивні майданчики і поля. Парк також має пташиний заповідник (англ. sanctuary)."
+        }
+      }
+    },
+    {
+      "id": "a5f345t5348e-1236f-4t53-9285-d544237f176d",
+      "name": "Chinatown, Manhattan",
+      "description": "Manhattan's Chinatown (simplified Chinese: 曼哈顿华埠; traditional Chinese: 曼哈頓華埠; pinyin: Mànhādùn huábù; Jyutping: Maan6haa1deon6 waa4bou6) is a neighborhood in Lower Manhattan, New York City, bordering the Lower East Side to its east, Little Italy to its north, Civic Center to its south, and Tribeca to its west. With an estimated population of 90,000 to 100,000 people, Chinatown is home to the highest concentration of Chinese people in the Western Hemisphere.",
+      "image": "https://weatlas.com/img/landmarks/e0a358540ccb118ca5a8620c8d29fe52.jpg",
+      "rating": [],
+      "translations": {
+        "en": {
+          "name": "Chinatown, Manhattan",
+          "description": "Manhattan's Chinatown (simplified Chinese: 曼哈顿华埠; traditional Chinese: 曼哈頓華埠; pinyin: Mànhādùn huábù; Jyutping: Maan6haa1deon6 waa4bou6) is a neighborhood in Lower Manhattan, New York City, bordering the Lower East Side to its east, Little Italy to its north, Civic Center to its south, and Tribeca to its west. With an estimated population of 90,000 to 100,000 people, Chinatown is home to the highest concentration of Chinese people in the Western Hemisphere."
+        },
+        "ru": {
+          "name": "Чайна-таун (Манхэттен)",
+          "description": "Манхэттенский Чайна-таун (англ. Chinatown)— нейборхуд в юго-восточной части боро Манхэттен, Нью-Йорк. Чайна-таун занимает около 35 жилых кварталов, ограничиваясь на севере улицами Кенмэр- и Деланси-стрит, на востоке — Аллен-стрит, на юге — Уэрт-стрит, а на западе — Бродвеем"
+        },
+        "uk": {
+          "name": "Китайський квартал",
+          "description": "Китайський квартал (англ. Chinatown, Чайна-таун — «китайське місто») — населені китайцями квартали в некитайських містах. Центри комерції, туризму і китайської культури. Разом із тим у китайських кварталах іноді існують проблеми етнічних китайських злочинних угруповань. Найстарші (200-річні) китайські квартали розташовані в Нагасакі та Бангкоку."
+        }
+      }
+    },
+    {
+      "id": "a5f3564558e-1236f-4t63-9285-d544890u176d",
+      "name": "White House",
+      "description": "The White House is the official residence and workplace of the president of the United States. It is located at 1600 Pennsylvania Avenue NW in Washington, D.C., and has been the residence of every U.S. president since John Adams in 1800. The term White House is often used as a metonym for the president and their advisers.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/WhiteHouseSouthFacade.JPG/1280px-WhiteHouseSouthFacade.JPG",
+      "rating": [],
+      "translations": {
+        "en": {
+          "name": "White House",
+          "description": "The White House is the official residence and workplace of the president of the United States. It is located at 1600 Pennsylvania Avenue NW in Washington, D.C., and has been the residence of every U.S. president since John Adams in 1800. The term White House is often used as a metonym for the president and their advisers."
+        },
+        "ru": {
+          "name": "Белый Дом",
+          "description": "Бе́лый дом (англ. the White House) — официальная резиденция президента США, расположенная в Вашингтоне (округ Колумбия) по почтовому адресу: Пенсильвания-авеню, 1600 (англ. 1600 Pennsylvania Avenue, Washington, D.C. 20500)."
+        },
+        "uk": {
+          "name": "Білий дім",
+          "description": "Білий дім (англ. the White House) — резиденція президента США у Вашингтоні (Пенсильванія-авеню, 1600)."
+        }
+      }
+    },
+    {
+      "id": "a5f3564558e-45636f-4t63-9285-d54230u176d",
+      "name": "The Pentagon",
+      "description": "The Pentagon is the headquarters building of the United States Department of Defense. As a symbol of the U.S. military, the phrase The Pentagon is also often used as a metonym or synecdoche for the Department of Defense and its leadership.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/0/0c/The_Pentagon_January_2008.jpg",
+      "rating": [],
+      "translations": {
+        "en": {
+          "name": "The Pentagon",
+          "description": "The Pentagon is the headquarters building of the United States Department of Defense. As a symbol of the U.S. military, the phrase The Pentagon is also often used as a metonym or synecdoche for the Department of Defense and its leadership."
+        },
+        "ru": {
+          "name": "Пентагон",
+          "description": "Пентаго́н (англ. The Pentagon от греч. πεντάγωνον «пятиугольник») — штаб-квартира Министерства обороны США в здании, имеющем форму правильного пятиугольника. Находится по адресу: Арлингтон, Виргиния 22202, США."
+        },
+        "uk": {
+          "name": "Пентагон",
+          "description": "Пентагон (від грец. πεντάγωνον — п'ятикутник) — будівля Міністерства оборони США у формі п'ятикутника."
+        }
+      }
+    },
+    {
+      "id": "t5f2358e-45636f-4t63-9285-d54274176d",
+      "name": "Alcatraz Island",
+      "description": "Alcatraz Island (/ˈælkəˌtræz/, Latin-American Spanish pronunciation: [alkaˈtɾas], European Spanish pronunciation: [alkaˈtɾaθ][4] from Arabic: غطاس‎, romanized: al-ġaţţās, lit. 'gannet') is located in San Francisco Bay, 1.25 miles (2.01 km) offshore from San Francisco, California, United States.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/d/de/Alcatraz_2020_01.jpg",
+      "rating": [],
+      "translations": {
+        "en": {
+          "name": "Alcatraz Island",
+          "description": "Alcatraz Island (/ˈælkəˌtræz/, Latin-American Spanish pronunciation: [alkaˈtɾas], European Spanish pronunciation: [alkaˈtɾaθ][4] from Arabic: غطاس‎, romanized: al-ġaţţās, lit. 'gannet') is located in San Francisco Bay, 1.25 miles (2.01 km) offshore from San Francisco, California, United States."
+        },
+        "ru": {
+          "name": "Алькатрас",
+          "description": "Алькатрас (англ. Alcatraz [ˈælkəˌtræz][1], в переводе с испанского — «олуша»), также известный под названием Рок (англ. The Rock — скала)[2] — остров в заливе Сан-Франциско. Административно относится к штату Калифорния."
+        },
+        "uk": {
+          "name": "Алькатрас",
+          "description": "Алькатрас (англ. Alcatraz), неофіційно відомий як «Скеля» (англ. The Rock)[3] — острів в затоці Сан-Франциско. Адміністративно належить округу Сан-Франциско штату Каліфорнія."
+        }
+      }
+    }
+  ],
+  "translations": {
+    "en": {
+      "name": "United States of America",
+      "description": "The United States of America (USA), commonly known as the United States (U.S. or US) or America, is a country primarily located in North America. It consists of 50 states, a federal district, five major self-governing territories, 326 Indian reservations, and some minor possessions.[h] At 3.8 million square miles (9.8 million square kilometers), it is the world's third- or fourth-largest country by total area.[d] With a population of more than 328 million people, it is the third most populous country in the world. The national capital is Washington, D.C., and the most populous city is New York City."
+    },
+    "ru": {
+      "name": "Соединённые Штаты Америки",
+      "description": "Соединённые Шта́ты Аме́рики (англ. The United States of America), сокращённо США (англ. USA), или Соединённые Шта́ты (англ. United States, U.S., в просторечии — Аме́рика) — государство в Северной Америке. Площадь — 9,5 млн км²[* 3][5] (4-е место в мире). Население — около 329 млн человек (2020, оценка; 3-е место в мире). США имеют федеративную форму устройства, административно делятся на 50 штатов и федеральный округ Колумбия; в их подчинении также находится ряд островных территорий (Пуэрто-Рико, Виргинские Острова, Гуам и другие)."
+    },
+    "uk": {
+      "name": "Сполу́чені Шта́ти Аме́рики",
+      "description": "Сполу́чені Шта́ти Аме́рики (скор. США, Сполу́чені Шта́ти, Шта́ти, Аме́рика; англ. United States of America, USA, U.S., the USA, the States, America) — федеративна республіка в Північній Америці, що складається з 50 штатів: Аляски, Гаваїв, 48 штатів на території між Атлантичним і Тихим океанами і між Канадою і Мексикою та федерального (столичного) округу Колумбія. Окрім того, США належать частина Віргінських островів (Американські Віргінські Острови) та Пуерто-Рико у Вест-Індії, Східне Самоа, Гуам, Північні Маріанські Острови та інші острови в Океанії. Столиця — місто Вашингтон."
+    }
+  }
+}
