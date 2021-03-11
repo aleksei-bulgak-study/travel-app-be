@@ -1,0 +1,165 @@
+{
+    "isoCode": "RUS",
+    "name": "Russia",
+    "description": "Russia, or the Russian Federation, is a transcontinental country spanning Eastern Europe and Northern Asia. It is the largest country in the world; covering over 17,125,191 square kilometres (6,612,073 sq mi), consisting of more than one-eighth of the Earth's inhabited land area, extending to eleven time zones, and has bordering sixteen sovereign nations. Russia has a population of 146.7 million; and is the ninth-most populous country, as well as the most populous country in Europe. Moscow, the capital, is the largest city in Europe, while Saint Petersburg is the second-largest city and the country's cultural centre. Russians are the largest Slavic and European nation; speaking Russian, the most spoken Slavic language, and the most spoken native language in Europe.",
+    "image": "https://www.state.gov/wp-content/uploads/2018/11/Russia-2499x1406.jpg",
+    "video": "https://www.youtube.com/watch?v=A7u5CVgDbJo",
+    "currency": {
+        "code": "RUB",
+        "name": "Russian Ruble",
+        "translations": {
+            "en": {
+                "name": "Russian Ruble"
+            },
+            "ru": {
+                "name": "Российский рубль"
+            },
+            "uk": {
+                "name": "Російський рубль"
+            }
+        }
+    },
+    "timezone": {
+        "name": "Europe/Moscow",
+        "offset": "+0300"
+    },
+    "capital": {
+        "name": "Moskow",
+        "coordinates": {
+            "lat": 55.7504461,
+            "lon": 37.6174943
+        },
+        "translations": {
+            "en": {
+                "name": "Moskow"
+            },
+            "ru": {
+                "name": "Москва"
+            },
+            "uk": {
+                "name": "Москва"
+            }
+        }
+    },
+    "sights": [
+        {
+            "id": "a5fbb08e-126f-4323-9285-d527e97f176d",
+            "name": "Peter and Paul Fortress",
+            "description": "The Peter and Paul Fortress is the original citadel of St. Petersburg, Russia, founded by Peter the Great in 1703 and built to Domenico Trezzini's designs from 1706 to 1740 as a star fortress. Between the first half of 1700s and early 1920s it served as a prison for political criminals. It has functioned as a museum since 1924.",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/1/17/RUS-2016-Aerial-SPB-Peter_and_Paul_Fortress_02.jpg",
+            "rating": [],
+            "translations": {
+                "en": {
+                    "name": "Peter and Paul Fortress",
+                    "description": "The Peter and Paul Fortress is the original citadel of St. Petersburg, Russia, founded by Peter the Great in 1703 and built to Domenico Trezzini's designs from 1706 to 1740 as a star fortress. Between the first half of 1700s and early 1920s it served as a prison for political criminals. It has functioned as a museum since 1924."
+                },
+                "ru": {
+                    "name": "Петропавловская крепость",
+                    "description": "Петропа́вловская кре́пость (официальное название — Санкт-Петербу́ргская, в 1914—1917 годах — Петрогра́дская крепость) — старейший памятник архитектуры Санкт-Петербурга, крепость I класса (согласно классификации крепостей Российской Империи). Расположена на Заячьем острове, в Санкт-Петербурге, историческое ядро города. Дата закладки крепости 16 (27) мая 1703 года, является датой основания Санкт-Петербурга. Никогда не использовалась ни в одном сражении. С первой четверти XVIII века до начала 1920-х годов служила тюрьмой. С 1924 года является государственным музеем."
+                },
+                "uk": {
+                    "name": "Петропавлівська фортеця",
+                    "description": "Петропавлівська фортеця — фортеця-зірка у Санкт-Петербурзі на Заячому острові, заснована 1703 року. Саме побудова фортеці вважається початком заснування міста. Має 6 бастіонів. Офіційна назва за часів Російської імперії — Санкт-Петербурзька, а в 1914—1917 роках — Петроградська фортеця. Зараз є частиною Музею історії Санкт-Петербурга."
+                }
+            }
+        },
+        {
+            "id": "d4404dc3-9a94-439b-a409-2885febbab02",
+            "name": "Church of the Savior on Blood",
+            "description": "The Church of the Savior on Spilled Blood is a former Russian Orthodox church in Saint Petersburg, Russia which currently functions as a secular museum. The structure was constructed between 1883 and 1907. It is one of Saint Petersburg's major attractions.",
+            "image": "https://www.visit-saint-petersburg.ru/attachments/Image/w8wvunKWzV0.jpg",
+            "rating": [],
+            "translations": {
+                "en": {
+                    "name": "Church of the Savior on Blood",
+                    "description": "The Church of the Savior on Spilled Blood is a former Russian Orthodox church in Saint Petersburg, Russia which currently functions as a secular museum. The structure was constructed between 1883 and 1907. It is one of Saint Petersburg's major attractions."
+                },
+                "ru": {
+                    "name": "Спас на Крови",
+                    "description": "Собо́р Воскресе́ния Христо́ва на Крови́, или храм Спа́са на Крови́ в Санкт-Петербурге — православный мемориальный однопрестольный храм во имя Воскресения Христова; сооружён в память того, что на этом месте 1 марта 1881 года в результате покушения был смертельно ранен император Александр II (выражение на крови указывает на кровь царя). Храм был сооружён как памятник царю на средства, собранные по всей России."
+                },
+                "uk": {
+                    "name": "Храм Спаса-на-Крові",
+                    "description": "Собор Воскресіння Христового на Крові, або Храм Спаса на Крові в Санкт-Петербурзі — православний меморіальний однопрестольний храм в ім'я Воскресіння Христового; споруджений в пам'ять того, що на цьому місці 1 березня 1881 року в результаті замаху був смертельно поранений імператор Олександр II (вираз на крові вказує на кров царя). Храм був споруджений як пам'ятник царю-мученику на кошти, зібрані по всій Росії."
+                }
+            }
+        },
+        {
+            "id": "f6115470-22aa-434f-9e0f-07ef83bf9870",
+            "name": "Hermitage Museum",
+            "description": "The State Hermitage Museum is a museum of art and culture in Saint Petersburg, Russia. The second-largest art museum in the world, it was founded in 1764 when Empress Catherine the Great acquired an impressive collection of paintings from the Berlin merchant Johann Ernst Gotzkowsky. The museum celebrates the anniversary of its founding each year on 7 December, Saint Catherine's Day. It has been open to the public since 1852. It attracted 4,956,524 visitors in 2019, ranking it eighth among the most visited art museums in the world.",
+            "image": "https://turizm.world/wp-content/uploads/2020/11/ermitaj-sankt-peterbyrg.jpg",
+            "rating": [],
+            "translations": {
+                "en": {
+                    "name": "Hermitage Museum",
+                    "description": "The State Hermitage Museum is a museum of art and culture in Saint Petersburg, Russia. The second-largest art museum in the world, it was founded in 1764 when Empress Catherine the Great acquired an impressive collection of paintings from the Berlin merchant Johann Ernst Gotzkowsky. The museum celebrates the anniversary of its founding each year on 7 December, Saint Catherine's Day. It has been open to the public since 1852. It attracted 4,956,524 visitors in 2019, ranking it eighth among the most visited art museums in the world."
+                },
+                "ru": {
+                    "name": "Эрмитаж",
+                    "description": "Госуда́рственный Эрмита́ж (до 1917 года — Императорский Эрмитаж) — музей изобразительного и декоративно-прикладного искусства, расположенный в городе Санкт-Петербург. Один из крупнейших художественных музеев в мире. Главный музейный комплекс включает в себя шесть связанных между собой зданий — Зимний дворец, Запасной дом Зимнего дворца, Малый Эрмитаж, Большой (Старый) Эрмитаж, Новый Эрмитаж и Эрмитажный театр. В них открыты для посещения 365 залов. Также в распоряжении музея находятся Главный штаб, Музей Императорского фарфорового завода, реставрационно-хранительский центр «Старая Деревня» и Меншиковский дворец."
+                },
+                "uk": {
+                    "name": "Ермітаж",
+                    "description": "Державний Ермітаж у Санкт-Петербурзі — один із найбільших у світі художніх і культурно-історичних музеїв."
+                }
+            }
+        },
+        {
+            "id": "e44c276c-21ba-486b-9362-d6155ed08f6b",
+            "name": "Saint Basil's Cathedral",
+            "description": "The Cathedral of Vasily the Blessed, commonly known as Saint Basil's Cathedral, is an Orthodox church in Red Square of Moscow, and is one of the most popular cultural symbols of Russia. The building, now a museum, is officially known as the Cathedral of the Intercession of the Most Holy Theotokos on the Moat, or Pokrovsky Cathedral. It was built from 1555 to 1561 on orders from Ivan the Terrible and commemorates the capture of Kazan and Astrakhan. It was the city's tallest building until the completion of the Ivan the Great Bell Tower in 1600.",
+            "image": "https://putidorogi-nn.ru/images/stories/evropa/sobor_vasiliya_blazhennogo_4.jpg",
+            "rating": [],
+            "translations": {
+                "en": {
+                    "name": "Saint Basil's Cathedral",
+                    "description": "The Cathedral of Vasily the Blessed, commonly known as Saint Basil's Cathedral, is an Orthodox church in Red Square of Moscow, and is one of the most popular cultural symbols of Russia. The building, now a museum, is officially known as the Cathedral of the Intercession of the Most Holy Theotokos on the Moat, or Pokrovsky Cathedral. It was built from 1555 to 1561 on orders from Ivan the Terrible and commemorates the capture of Kazan and Astrakhan. It was the city's tallest building until the completion of the Ivan the Great Bell Tower in 1600."
+                },
+                "ru": {
+                    "name": "Храм Василия Блаженного",
+                    "description": "Собо́р Покрова́ Пресвято́й Богоро́дицы, что на Рву (Покро́вский собо́р, собо́р Покрова́ на Рву, разговорное — собо́р (храм) Васи́лия Блаже́нного) — православный храм на Красной площади в Москве, памятник русской архитектуры. Строительство собора велось с 1555 по 1561 год."
+                },
+                "uk": {
+                    "name": "Собор Василія Блаженного",
+                    "description": "Храм Покрови Богородиці на Ро́ві (рос. Храм Покрова Богородицы на Рву), відоміший як Собор Василія Блаженного (рос. Собор Василия Блаженного) — православний собор у Москві, побудований в XVI столітті. Є візитною карткою міста, одним з найбільш впізнаваних місць."
+                }
+            }
+        },
+        {
+            "id": "ae28ca96-1835-4453-a313-920ae6736c0e",
+            "name": "Petergof",
+            "description": "Petergof or Peterhof, known as Petrodvorets (Петродворец) from 1944 to 1997, is a municipal town in Petrodvortsovy District of the federal city of St. Petersburg, located on the southern shore of the Gulf of Finland.",
+            "image": "https://biglifetour.com/assets/images/library/peterhof-history/2.jpg",
+            "rating": [],
+            "translations": {
+                "en": {
+                    "name": "Petergof",
+                    "description": "Petergof or Peterhof, known as Petrodvorets (Петродворец) from 1944 to 1997, is a municipal town in Petrodvortsovy District of the federal city of St. Petersburg, located on the southern shore of the Gulf of Finland."
+                },
+                "ru": {
+                    "name": "Петергоф",
+                    "description": "Петерго́ф — внутригородское муниципальное образование в составе Петродворцового района города федерального значения Санкт-Петербурга. Расположен на южном берегу Финского залива к западу от Санкт-Петербурга, в 29 км по железной дороге. Крупный туристский, научный и учебный центр (Петродворцовый учебно-научный комплекс СПбГУ, военные высшие и средние учебные заведения, гимназии)."
+                },
+                "uk": {
+                    "name": "Петергоф",
+                    "description": "Петергоф (від нім. Peterhof — «двір Петра», з 1944 по 1997 -Петродворец) — місто в Росії, муніципальне утворення у складі Петродворцового району міста федерального значення Санкт-Петербургу. Місто розташоване на південному березі Фінської затоки. Значний туристичний, науковий та навчальний центр. Розташований за 29 км на захід від Санкт-Петербургу по залізниці."
+                }
+            }
+        }
+    ],
+    "translations": {
+        "en": {
+            "name": "Russia",
+            "description": "Russia, or the Russian Federation, is a transcontinental country spanning Eastern Europe and Northern Asia. It is the largest country in the world; covering over 17,125,191 square kilometres (6,612,073 sq mi), consisting of more than one-eighth of the Earth's inhabited land area, extending to eleven time zones, and has bordering sixteen sovereign nations. Russia has a population of 146.7 million; and is the ninth-most populous country, as well as the most populous country in Europe. Moscow, the capital, is the largest city in Europe, while Saint Petersburg is the second-largest city and the country's cultural centre. Russians are the largest Slavic and European nation; speaking Russian, the most spoken Slavic language, and the most spoken native language in Europe."
+        },
+        "ru": {
+            "name": "Россия",
+            "description": "Росси́я — государство в Восточной Европе и Северной Азии. Территория России в её конституционных границах составляет 17 125 191 км²; население страны (в пределах её заявленной территории) составляет 146 238 185 чел. (2021). Занимает первое место в мире по территории, шестое — по объёму ВВП по ППС, и девятое — по численности населения."
+        },
+        "uk": {
+            "name": "Росія",
+            "description": "Росі́я — трансконтинентальна держава у Східній Європі та Північній Азії з площею 17 098 246 км². Росія є найбільшою за територією країною у світі, що охоплює більше однієї восьмої площі суходолу Землі, розтягнувшись на одинадцять часових поясів і межуючи з 16 суверенними країнами. Територія Росії простягається від Балтійського моря на заході до Тихого океану на сході, а також від Північного Льодовитого океану на півночі до Чорного моря та Кавказу на півдні. Із 144 386 830 жителів, які проживають у 85 федеральних суб'єктах, Росія — найнаселеніша країна Європи та дев'ята за чисельністю країна в світі."
+        }
+    }
+}
