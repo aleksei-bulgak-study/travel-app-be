@@ -1,0 +1,186 @@
+{
+    "isoCode": "UKR",
+    "name": "Ukraine",
+    "description": "Ukraine is a country in Eastern Europe. It is bordered by Russia to the east and north-east; Belarus to the north; Poland, Slovakia and Hungary to the west; and Romania, Moldova, Crimea, and the Black Sea to the south. Including Crimea, Ukraine has an area of 603,628 km2 (233,062 sq mi), and is the second-largest country in Europe after Russia. Excluding Crimea, Ukraine has a population of about 41.5 million, making it the eighth-most populous country in Europe. Its capital and largest city is Kyiv.",
+    "image": "https://gordonua.com/img/article/15158/49_tn.jpg",
+    "video": "https://www.youtube.com/watch?v=qZMMJo7jOTQ",
+    "currency": {
+        "code": "UAH",
+        "name": "Ukrainian Hryvnia",
+        "translations": {
+            "en": {
+                "name": "Ukrainian Hryvnia"
+            },
+            "ru": {
+                "name": "Украинская гривна"
+            },
+            "uk": {
+                "name": "Гривня"
+            }
+        }
+    },
+    "timezone": {
+        "name": "Europe/Kiev",
+        "offset": "+0200"
+    },
+    "capital": {
+        "name": "Kyiv",
+        "coordinates": {
+            "lat": 50.4500336,
+            "lon": 30.5241361
+        },
+        "translations": {
+            "en": {
+                "name": "Kyiv"
+            },
+            "ru": {
+                "name": "Киев"
+            },
+            "uk": {
+                "name": "Київ"
+            }
+        }
+    },
+    "sights": [
+        {
+            "id": "a1cdeed5-798c-4217-9499-e1e763781609",
+            "name": "Kyiv Pechersk Lavra",
+            "description": "Kyiv Pechersk Lavra or Kyiv-Pechersk Lavra or Kyivo-Pechers’ka Lavra, also known as the Kyiv Monastery of the Caves, is a historic Orthodox Christian monastery which gave its name to one of the city districts where it is located in Kyiv.",
+            "image": "http://p2.patriarchia.ru/2017/10/01/1239064642/33.jpg",
+            "rating": [],
+            "translations": {
+                "en": {
+                    "name": "Kyiv Pechersk Lavra",
+                    "description": "Kyiv Pechersk Lavra or Kyiv-Pechersk Lavra or Kyivo-Pechers’ka Lavra, also known as the Kyiv Monastery of the Caves, is a historic Orthodox Christian monastery which gave its name to one of the city districts where it is located in Kyiv."
+                },
+                "ru": {
+                    "name": "Киево-Печерская лавра",
+                    "description": "Свя́то-Успе́нская Ки́ево-Пече́рская ла́вра (укр. Свято-Успенська Києво-Печерська лавра) — один из первых по времени основания монастырей Киевской Руси. Одна из важнейших православных святынь, третий Удел Богородицы."
+                },
+                "uk": {
+                    "name": "Києво-Печерська лавра",
+                    "description": "Ки́єво-Пече́рська ла́вра — православний монастирський комплекс Української Православної Церкви (Московського патріархату) в Києві, Україна. Один із найбільших християнських центрів-святинь країни. Визначна пам'ятка історії та архітектури."
+                }
+            }
+        },
+        {
+            "id": "82928a70-5a68-4d1c-94d6-e0c3e3853737",
+            "name": "Khreshchatyk",
+            "description": "Khreshchatyk is the main street of Kyiv, Ukraine. The street has a length of 1.2 kilometres (0.75 mi). It stretches from the European Square (northeast) through the Maidan and to Bessarabska Square (southwest) where the Besarabsky Market is located. Along the street are the offices of the Kyiv City Council which contains both the city's council and the state administration, the Main Post Office, the Ministry of Agrarian Policy, the State Committee of Television and Radio Broadcasting, the Central Department Store (TsUM), the Ukrainian House, and others.",
+            "image": "https://wikiway.com/upload/resize_cache/iblock/3fe/1280_800_2/Kreshchatik.jpg",
+            "rating": [],
+            "translations": {
+                "en": {
+                    "name": "Khreshchatyk",
+                    "description": "Khreshchatyk is the main street of Kyiv, Ukraine. The street has a length of 1.2 kilometres (0.75 mi). It stretches from the European Square (northeast) through the Maidan and to Bessarabska Square (southwest) where the Besarabsky Market is located. Along the street are the offices of the Kyiv City Council which contains both the city's council and the state administration, the Main Post Office, the Ministry of Agrarian Policy, the State Committee of Television and Radio Broadcasting, the Central Department Store (TsUM), the Ukrainian House, and others."
+                },
+                "ru": {
+                    "name": "Крещатик",
+                    "description": "Креща́тик (укр. Хрещатик) — главная улица Киева. Длина — 1225 м, направление — с севера на юг. Начинается от Европейской площади, проходит через Майдан Незалежности и заканчивается Бессарабской площадью."
+                },
+                "uk": {
+                    "name": "Хрещатик",
+                    "description": "Хреща́тик — головна вулиця Києва, розташована в Печерському та Шевченківському районах, місцевість Бессарабка. Довжина — 1,3 км, напрямок — з північного сходу на південний захід. Починається від Європейської площі, проходить через Майдан Незалежності і закінчується Бессарабською площею. На Хрещатику розміщені: Київська міська рада і Київська міська державна адміністрація, головний поштамт, Міністерство аграрної політики, Державний комітет телебачення і радіомовлення, Центральний універмаг, Бессарабський ринок."
+                }
+            }
+        },
+        {
+            "id": "91ed9124-796b-4dd0-9542-f705a122d9f9",
+            "name": "Motherland Monument",
+            "description": "The Motherland Monument is a monumental statue in Kyiv, the capital of Ukraine. The sculpture is a part of the National Museum of the History of Ukraine in the Second World War.",
+            "image": "https://upload.wikimedia.org/wikipedia/uk/9/9a/War_museum%2C_Kyiv_6.jpg",
+            "rating": [],
+            "translations": {
+                "en": {
+                    "name": "Motherland Monument",
+                    "description": "The Motherland Monument is a monumental statue in Kyiv, the capital of Ukraine. The sculpture is a part of the National Museum of the History of Ukraine in the Second World War."
+                },
+                "ru": {
+                    "name": "Родина-мать (Киев)",
+                    "description": "«Ро́дина-мать» (укр. Батьківщина-мати) — монументальная скульптура в Киеве на правом берегу Днепра. Расположена на территории Музея истории Украины во Второй мировой войне. Открыта в составе музейного комплекса в 1981 году в День Победы. Комплекс открывал Генеральный секретарь ЦК КПСС Леонид Брежнев."
+                },
+                "uk": {
+                    "name": "Батьківщина-Мати (Київ)",
+                    "description": "«Батьківщи́на-Ма́ти» — монументальна скульптура в Києві розташована на високому правому березі Дніпра на території Національного музею історії України у Другій світовій війні. Відкрита в 1981 році. Найвища монументальна скульптура в Європі."
+                }
+            }
+        },
+        {
+            "id": "875d8458-f19e-404d-86ca-28364b31e481",
+            "name": "St Andrew's Church, Kyiv",
+            "description": "St Andrew's Church (Ukrainian: Андріївська церква, Andriyivs'ka tserkva; Russian: Андреевская церковь) is a major Baroque church located in Kyiv, the capital of Ukraine. The church was constructed between 1747 and 1754, to a design by the Italian architect Bartolomeo Rastrelli. It is sometimes referred to as a cathedral. The church is part of the National Sanctuary \"Sophia of Kyiv\" as a landmark of cultural heritage.",
+            "image": "https://vokrugsveta.ua/wp-content/uploads/2016/12/13-12-16-st-andrews-church-0.jpg",
+            "rating": [],
+            "translations": {
+                "en": {
+                    "name": "St Andrew's Church, Kyiv",
+                    "description": "St Andrew's Church (Ukrainian: Андріївська церква, Andriyivs'ka tserkva; Russian: Андреевская церковь) is a major Baroque church located in Kyiv, the capital of Ukraine. The church was constructed between 1747 and 1754, to a design by the Italian architect Bartolomeo Rastrelli. It is sometimes referred to as a cathedral. The church is part of the National Sanctuary \"Sophia of Kyiv\" as a landmark of cultural heritage."
+                },
+                "ru": {
+                    "name": "Андреевская церковь (Киев)",
+                    "description": "Андре́евская це́рковь (укр. Андріївська церква) в Киеве — православный храм в честь апостола Андрея Первозванного. Построен в стиле елизаветинского барокко по проекту Б. Ф. Растрелли в 1747—1753 годах на Андреевской горе. Храм расположен на крутом правом берегу Днепра, над исторической частью города — Подолом. Вниз от Андреевской церкви идёт Андреевский спуск, соединяющий верхний город с нижним."
+                },
+                "uk": {
+                    "name": "Андріївська церква",
+                    "description": "Андрі́ївська церква — православна церква на честь Святого Андрія у стилі бароко, пам'ятка архітектури та монументального живопису XVIII ст. світового значення у Києві, споруджена за проектом видатного архітектора Бартоломео Растреллі. Входить до складу Національного заповідника «Софія Київська». Церкву запропоновано внести до списку Всесвітньої спадщини ЮНЕСКО. 18 жовтня 2018 року Верховна Рада України ухвалила закон «Про особливості користування Андріївською церквою Національного заповідника «Софія Київська» (№ 9208), на підставі якого Андріївська церква передана у безоплатне користування Вселенському патріархату, і у ній облаштована Ставропігія Константинопольського патріархату, при цьому церква й надалі залишається музеєм у складі Національного заповідника «Софія Київська»"
+                }
+            }
+        },
+        {
+            "id": "bdd9b65c-f080-4573-8124-80acba6597bc",
+            "name": "St. Michael's Golden-Domed Monastery",
+            "description": "St. Michael's Golden-Domed Monastery is a functioning monastery in Kyiv, the capital of Ukraine. The monastery is located on the right bank of the Dnieper River on the edge of a bluff northeast of the Saint Sophia Cathedral. The site is located in the historic administrative Uppertown and overlooks the city's historical commercial and merchant quarter, the Podil neighbourhood.",
+            "image": "https://periscope.com.ua/sites/default/files/dazest/mihaylovskiy2_0.jpg",
+            "rating": [],
+            "translations": {
+                "en": {
+                    "name": "St. Michael's Golden-Domed Monastery",
+                    "description": "St. Michael's Golden-Domed Monastery is a functioning monastery in Kyiv, the capital of Ukraine. The monastery is located on the right bank of the Dnieper River on the edge of a bluff northeast of the Saint Sophia Cathedral. The site is located in the historic administrative Uppertown and overlooks the city's historical commercial and merchant quarter, the Podil neighbourhood."
+                },
+                "ru": {
+                    "name": "Михайловский Златоверхий монастырь",
+                    "description": "Миха́йловский Златове́рхий монасты́рь — действующий монастырь в Киеве, воссозданный в 1997—1998 годах в формах разрушенного в 1930-х годах соборного храма в честь Архангела Михаила. Является главным собором ПЦУ. Включает также трапезную с церковью Иоанна Богослова (1713 год) и колокольню (1716—1719 годы, разрушена в 1930-х, восстановлена — 1997—1998). Предполагается, что Михайловский собор был первым храмом с позолоченным верхом, откуда на Руси пошла эта своеобразная традиция."
+                },
+                "uk": {
+                    "name": "Михайлівський Золотоверхий монастир",
+                    "description": "Михайлівський Золотоверхий монастир — діючий православний монастир на честь Архангела Михаїла в Києві, кафедральний собор Православної церкви України. Оригінальний храм спорудили в 1108–1113 роках за правління онука Ярослава Мудрого київського князя Святополка Ізяславича. Хрестово-купольний шестистовпний храм з трьома навами та одним позолоченим куполом. На початку XX століття храм — семикупольний. У 1930-х роках був зруйнований, а відтворений у 1997—1998 роках. Михайлівський Золотоверхий собор збудовано з каміння і цегли-плінфи на вапняно-цем'яковому розчині технікою «мішаної кладки» з використанням голосників у пазухах склепінь. Стіни собору прикрашали мозаїки і фрески. Був одним з найбільших монастирів Стародавнього Києва."
+                }
+            }
+        },
+        {
+            "id": "307a85d9-17a5-4e5a-8fe2-24b2cb879d17",
+            "name": "National Art Museum of Ukraine",
+            "description": "The National Art Museum of Ukraine (Ukrainian: Національний Художній Музей України) is a museum dedicated to Ukrainian art in Kyiv, Ukraine.",
+            "image": "https://periscope.com.ua/sites/default/files/dazest/mihaylovskiy2_0.jpg",
+            "rating": [],
+            "translations": {
+                "en": {
+                    "name": "National Art Museum of Ukraine",
+                    "description": "The National Art Museum of Ukraine (Ukrainian: Національний Художній Музей України) is a museum dedicated to Ukrainian art in Kyiv, Ukraine. "
+                },
+                "ru": {
+                    "name": "Национальный художественный музей Украины",
+                    "description": "Национа́льный худо́жественный музе́й Украи́ны (укр. Національний художній музей України) — крупнейший художественный музей страны. Располагается в здании на улице Грушевского, специально построенном для этой цели архитектором В. Городецким по проекту П. Бойцова (неоклассицизм), скульптурное оформление Э. Саля."
+                },
+                "uk": {
+                    "name": "Національний художній музей України",
+                    "description": "Націона́льний худо́жній музе́й — музей образотворчого мистецтва в Україні, в Києві. Розташований на вулиці Михайла Грушевського, на Печерську. Один із найбільших і найстаріших в країні. Заснований 1 серпня 1899 року за часів Російської імперії, на кошти російського уряду та української родини Терещенків. Будівля музею спроектована архітектором Владиславом Городецьким. Музейна колекція створена на основі пожертв Богдана Ханенка, Терещенків, Вікентія Хвойки, Миколи Біляшівського та інших. Відкритий 30 грудня 1904 року. Станом на початок ХХІ століття музейні фонди нараховують близько 40 тисяч експонатів. Має унікальну колекцію творів українського живопису, скульптури та іконопису від XII—ХХ століть."
+                }
+            }
+        }
+    ],
+    "translations": {
+        "en": {
+            "name": "Ukraine",
+            "description": "Ukraine is a country in Eastern Europe. It is bordered by Russia to the east and north-east; Belarus to the north; Poland, Slovakia and Hungary to the west; and Romania, Moldova, Crimea, and the Black Sea to the south. Including Crimea, Ukraine has an area of 603,628 km2 (233,062 sq mi), and is the second-largest country in Europe after Russia. Excluding Crimea, Ukraine has a population of about 41.5 million, making it the eighth-most populous country in Europe. Its capital and largest city is Kyiv."
+        },
+        "ru": {
+            "name": "Украина",
+            "description": "Украи́на — государство в Восточной и частично Центральной Европе. Население, по итогам переписи 2001 года, составляло 48 240 902 постоянных жителя и 48 457 102 человека наличного населения, по оценкам государственной службы статистики Украины на 1 сентября 2020 года — 41 554 361 постоянных жителя и 41 723 998 человек наличного населения. Территория в пределах международно признанных границ — 603 549 км². Занимает 34-е место в мире по численности населения, 44-е по территории. Украина является первым по размеру территории европейским государством, целиком находящимся в Европе."
+        },
+        "uk": {
+            "name": "Україна",
+            "description": "Украї́на  — держава, розташована в Східній і в Центральній Європі, у південно-західній частині Східноєвропейської рівнини, держава-правонаступниця Української Радянської Соціалістичної Республіки, Союзу Радянських Соціалістичних Республік та одночасно — Української Народної Республіки, Гетьманщини, Королівства Руського й Київської Русі. Площа становить 603 548 км² населення, за оцінкою держслужби статистики, складає 41 588 354 особи станом на 1 січня 2021 року (без урахування окупованого Криму). Найбільша за площею країна з тих, чия територія повністю лежить у Європі. Межує з Республікою Білорусь на півночі, Польщею, Словаччиною та Угорщиною — на заході, Румунією і Республікою Молдова — на південному заході, Російською Федерацією на сході й північному сході. На півдні й південному сході омивається Чорним та Азовським морями."
+        }
+    }
+}
