@@ -146,6 +146,27 @@
                     "description": "Петергоф (від нім. Peterhof — «двір Петра», з 1944 по 1997 -Петродворец) — місто в Росії, муніципальне утворення у складі Петродворцового району міста федерального значення Санкт-Петербургу. Місто розташоване на південному березі Фінської затоки. Значний туристичний, науковий та навчальний центр. Розташований за 29 км на захід від Санкт-Петербургу по залізниці."
                 }
             }
+        },
+        {
+            "id": "c77e7f58-88c4-4a17-8e66-519411e2fc6c",
+            "name": "Saint Isaac's Cathedral",
+            "description": "Saint Isaac's Cathedral or Isaakievskiy Sobor is a cathedral that currently functions as a museum with occasional church services in Saint Petersburg, Russia. It is dedicated to Saint Isaac of Dalmatia, a patron saint of Peter the Great, who had been born on the feast day of that saint. It was originally built as a cathedral but was turned into a museum by the Soviet government in 1931 and has remained a museum ever since. In 2017, the Governor of Saint Petersburg offered to transfer the cathedral back to the Russian Orthodox Church, but this was not accomplished due to the protests of St Petersburg citizens opposing the offer.",
+            "image": "https://cdnimg.rg.ru/img/content/136/16/21/10p_sob_d_850.jpg",
+            "rating": [],
+            "translations": {
+                "en": {
+                    "name": "Saint Isaac's Cathedral",
+                    "description": "Saint Isaac's Cathedral or Isaakievskiy Sobor is a cathedral that currently functions as a museum with occasional church services in Saint Petersburg, Russia. It is dedicated to Saint Isaac of Dalmatia, a patron saint of Peter the Great, who had been born on the feast day of that saint. It was originally built as a cathedral but was turned into a museum by the Soviet government in 1931 and has remained a museum ever since. In 2017, the Governor of Saint Petersburg offered to transfer the cathedral back to the Russian Orthodox Church, but this was not accomplished due to the protests of St Petersburg citizens opposing the offer."
+                },
+                "ru": {
+                    "name": "Исаакиевский собор",
+                    "description": "Исаа́киевский собо́р (официальное название — собор преподо́бного Исаа́кия Далма́тского) — крупнейший православный храм Санкт-Петербурга. Расположен на Исаакиевской площади. Кафедральный собор Санкт-Петербургской епархии с 1858 по 1929 год. С 1928 года имеет статус музея (музейный комплекс «Государственный музей-памятник „Исаакиевский собор“»)."
+                },
+                "uk": {
+                    "name": "Ісаакіївський собор",
+                    "description": "Ісаакіївський собор (офіційна назва — собор преподобного Ісаакія Далматського) — найбільший православний храм Санкт-Петербурга. Має статус музею; зареєстрована в червні 1991 року церковна громада має можливість здійснювати богослужіння по особливих днях з дозволу дирекції музею. На думку фахівців, в 2000-х роках «з механічної точки зору стан собору аварійний»"
+                }
+            }
         }
     ],
     "translations": {
