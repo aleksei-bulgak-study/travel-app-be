@@ -1,0 +1,186 @@
+{
+    "isoCode": "LVA",
+    "name": "Latvia",
+    "description": "Latvia, officially known as the Republic of Latvia, is a country in the Baltic region of Northern Europe. It is one of the Baltic states; and is bordered by Estonia to the north, Lithuania to the south, Russia to the east, Belarus to the southeast, and shares a maritime border with Sweden to the west. Latvia covers an area of 64,589 km2 (24,938 sq mi), with a population of 1.9 million. The country has a temperate seasonal climate. Its capital and largest city is Riga. Latvians belong to the ethno-linguistic group of the Balts; and speak Latvian, one of the only two surviving Baltic languages. Russians are a prominent minority in the country, at some 24% of the population.",
+    "image": "http://tour102.ru/foto/1362848517.jpg",
+    "video": "https://www.youtube.com/watch?v=WD80RF8ozcM",
+    "currency": {
+        "code": "EUR",
+        "name": "Euro",
+        "translations": {
+            "en": {
+                "name": "Euro"
+            },
+            "ru": {
+                "name": "Евро"
+            },
+            "uk": {
+                "name": "Євро"
+            }
+        }
+    },
+    "timezone": {
+        "name": "Europe/Riga",
+        "offset": "+0200"
+    },
+    "capital": {
+        "name": "Riga",
+        "coordinates": {
+            "lat": 56.9493977,
+            "lon": 24.1051846
+        },
+        "translations": {
+            "en": {
+                "name": "Riga"
+            },
+            "ru": {
+                "name": "Рига"
+            },
+            "uk": {
+                "name": "Рига"
+            }
+        }
+    },
+    "sights": [
+        {
+            "id": "4777161c-f36d-4f68-9960-54d689733d22",
+            "name": "House of the Blackheads",
+            "description": "House of the Blackheads is a building situated in the old town of Riga, Latvia. The original building was erected during the first third of the 14th century for the Brotherhood of Blackheads, a guild for unmarried merchants, shipowners, and foreigners in Riga. Major works were done in the early 17th century, adding most of the Mannerist ornamentation. The sculptures were made by the workshop of August Volz.",
+            "image": "http://www.facade-project.ru/images/cms/data/fasady_znamenityh_arhitekturnyh_sooruzhenij/3-1-znam-fasad.jpg",
+            "rating": [],
+            "translations": {
+                "en": {
+                    "name": "House of the Blackheads",
+                    "description": "House of the Blackheads is a building situated in the old town of Riga, Latvia. The original building was erected during the first third of the 14th century for the Brotherhood of Blackheads, a guild for unmarried merchants, shipowners, and foreigners in Riga. Major works were done in the early 17th century, adding most of the Mannerist ornamentation. The sculptures were made by the workshop of August Volz."
+                },
+                "ru": {
+                    "name": "Дом Черноголовых",
+                    "description": "Дом Черноголовых — одна из основных достопримечательностей Риги, расположенная в историческом центре города, на Ратушной площади. Впервые упоминается в 1334 году как новый дом Большой гильдии. Впоследствии здание неоднократно перестраивалось, во время Второй мировой войны разрушено. Восстановлено в 1996—2000 годах."
+                },
+                "uk": {
+                    "name": "Кам'яниця Чорноголових",
+                    "description": "Кам'яниця Чорноголових — кам'яна будівля, закладена на ратушній площі Риги 1334 як Новий будинок Великої Гільдії. Використовувалась для зустрічей купців з німецьких міщан Риги."
+                }
+            }
+        },
+        {
+            "id": "9cc13e39-dd27-4cba-bdc1-0c12d2cfc94c",
+            "name": "Rundāle Palace",
+            "description": "Rundāle Palace (Latvian: Rundāles pils; German: Schloss Ruhental, formerly Ruhenthal or Ruhendahl) is one of the two major baroque palaces built for the Dukes of Courland in what is now Latvia, the other being Jelgava Palace. The palace was built in two periods, from 1736 until 1740 and from 1764 until 1768. It is situated at Pilsrundāle, 12 km west of Bauska.",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/d/db/Rund%C4%81les_pils_South-West.jpg",
+            "rating": [],
+            "translations": {
+                "en": {
+                    "name": "Rundāle Palace",
+                    "description": "Rundāle Palace (Latvian: Rundāles pils; German: Schloss Ruhental, formerly Ruhenthal or Ruhendahl) is one of the two major baroque palaces built for the Dukes of Courland in what is now Latvia, the other being Jelgava Palace. The palace was built in two periods, from 1736 until 1740 and from 1764 until 1768. It is situated at Pilsrundāle, 12 km west of Bauska."
+                },
+                "ru": {
+                    "name": "Рундальский дворец",
+                    "description": "Рундальский дворец (латыш. Rundāles pils, исторические варианты названия Руентальский дворец, Руэнталь, нем. Schloss Ruhenthal, буквально — «Долина спокойствия») — один из наиболее значительных памятников архитектуры Латвии, бывшая загородная резиденция герцогов Курляндии. Расположен в селе Пилсрундале, в 12 км к северо-западу от Бауски. Выстроен в стиле барокко по проекту Ф. Б. Растрелли для Э. И. Бирона."
+                },
+                "uk": {
+                    "name": "Рундальський палац",
+                    "description": "Рундальський палац — бароковий палац XVIII століття в Латвії. Розташований неподалік міста Бауска. Споруджений архітектором Франческо Бартоломео Растреллі на замовлення курляндського і семигальського герцога Ернста-Йоганна фон Бірона. Єдина з ранніх споруд архітектора, що збереглася до сьогодні. Використовується як історичний музей. Первісна назва — Ру́ентальский замок."
+                }
+            }
+        },
+        {
+            "id": "3cf54cd6-cb84-4c20-a77f-325449eaf441",
+            "name": "St. Peter's Church, Riga",
+            "description": "St. Peter's Church (Latvian: Svētā Pētera Evaņģēliski luteriskā baznīca) is a Lutheran church in Riga, the capital of Latvia, dedicated to Saint Peter. It is a parish church of the Evangelical Lutheran Church of Latvia.",
+            "image": "https://evertravel.me/uploads/post/cover/2430/big_landscape_0_8c035_7b2b9b41_XXL.jpg",
+            "rating": [],
+            "translations": {
+                "en": {
+                    "name": "St. Peter's Church, Riga",
+                    "description": "St. Peter's Church (Latvian: Svētā Pētera Evaņģēliski luteriskā baznīca) is a Lutheran church in Riga, the capital of Latvia, dedicated to Saint Peter. It is a parish church of the Evangelical Lutheran Church of Latvia."
+                },
+                "ru": {
+                    "name": "Церковь Святого Петра (Рига)",
+                    "description": "Церковь Святого Петра — один из символов и одна из главных достопримечательностей города Риги (Латвия). Находится в Старом городе. Древнейшее по времени основания культовое сооружение города, впервые упоминается в 1209 году. Знаменита своим оригинальным, узнаваемым шпилем (общая высота башни церкви — 123,5 метра, из которых 64,5 метра приходится на шпиль). До построения Рижской телебашни (1985) церковь Святого Петра являлась самым высоким сооружением в городе."
+                },
+                "uk": {
+                    "name": "Церква святого Петра (Рига)",
+                    "description": "Церква святого Петра — кірха Евангелічно-лютеранської церкви Латвії, один із символівй одна з найвизначніших пам'яток Риги, столиці Латвії. Є найдавнішою культовою спорудою міста, перша згадка відноситься до 1209 року. Церква знаменита своїм оригінальним шпилем (загальна висота вежі церкви — 123,5 метра, з яких 64,5 метра припадає на шпиль). Розташована у Старому місті."
+                }
+            }
+        },
+        {
+            "id": "3b2166ec-cf3e-42de-83cb-2713b55cec9a",
+            "name": "Freedom Monument",
+            "description": "The Freedom Monument is located in Riga, Latvia, honouring soldiers killed during the Latvian War of Independence (1918–1920). It is considered an important symbol of the freedom, independence, and sovereignty of Latvia. Unveiled in 1935, the 42-metre (138 ft) high monument of granite, travertine, and copper often serves as the focal point of public gatherings and official ceremonies in Riga.",
+            "image": "http://gobaltia.ru/wp-content/uploads/2014/09/Z9GyLc994AYC1gNimQW5FwH6l8D2V4-620x410.jpg",
+            "rating": [],
+            "translations": {
+                "en": {
+                    "name": "Freedom Monument",
+                    "description": "The Freedom Monument is located in Riga, Latvia, honouring soldiers killed during the Latvian War of Independence (1918–1920). It is considered an important symbol of the freedom, independence, and sovereignty of Latvia. Unveiled in 1935, the 42-metre (138 ft) high monument of granite, travertine, and copper often serves as the focal point of public gatherings and official ceremonies in Riga."
+                },
+                "ru": {
+                    "name": "Памятник Свободы",
+                    "description": "Церковь Святого Петра — один из символов и одна из главных достопримечательностей города Риги (Латвия). Находится в Старом городе. Древнейшее по времени основания культовое сооружение города, впервые упоминается в 1209 году. Знаменита своим оригинальным, узнаваемым шпилем (общая высота башни церкви — 123,5 метра, из которых 64,5 метра приходится на шпиль). До построения Рижской телебашни (1985) церковь Святого Петра являлась самым высоким сооружением в городе."
+                },
+                "uk": {
+                    "name": "Монумент Свободи",
+                    "description": "Монумент Свободи розташований на однойменному бульварі в самому центрі Риги, неподалік Старого міста. Меморіал споруджений як данина пам'яті воякам, що пожертвували життям під час війни за незалежність Латвії (1918—1920). Символізує свободу, національну єдність та незалежність цієї балтійської країни. Пам'ятник звели у рекордні строки й урочисто відкрили 18 листопада 1935 року. Він виготовлений з червоного та сірого граніту, травертину, залізобетону та міді. Нині площа навколо монументу слугує місцем для проведення численних громадських зібрань та офіційних церемоній."
+                }
+            }
+        },
+        {
+            "id": "4bb088cd-241c-457e-ae36-29e0ed170c89",
+            "name": "Gauja National Park",
+            "description": "The Gauja National Park (Latvian: Gaujas nacionālais parks) in Vidzeme is the largest national park in Latvia, with an area of 917.86 km² running from north-east of Sigulda to south-west of Cēsis along the valley of the Gauja River, from which the park takes its name.",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Ergeljuklintis424aug037qg.jpg",
+            "rating": [],
+            "translations": {
+                "en": {
+                    "name": "Gauja National Park",
+                    "description": "The Gauja National Park (Latvian: Gaujas nacionālais parks) in Vidzeme is the largest national park in Latvia, with an area of 917.86 km² running from north-east of Sigulda to south-west of Cēsis along the valley of the Gauja River, from which the park takes its name."
+                },
+                "ru": {
+                    "name": "Гауйский национальный парк",
+                    "description": "Гауйский национа́льный парк — самый большой национальный парк в Латвии. Расположен на территории 11 краёв: Цесисского, Лигатненского, Аматского, Приекульского, Паргауйского, Сигулдского, Инчукалнского, Кримулдского, Сейского, Коценского и Беверинского. Парк занимает площадь в 917,90 км² в долине реки Гауя, в нескольких километрах от города Валмиера на северо-востоке до посёлка Мурьяни (Мурьянский мост) на юго-западе. Основан 14 сентября 1973 года и является старейшим национальным парком Латвии. Администрация парка расположена в городе Сигулда."
+                },
+                "uk": {
+                    "name": "Гауя (національний парк)",
+                    "description": "Національний парк Га́уя — найбільший (площа — 917,45 км²) і найстаріший (заснований 14 вересня 1973 року) національний парк у Латвії. Парк знаходиться в історичному регіоні Відземе. Територія парку простягається з північного сходу від околиць міста Валмієра до південного заходу до селища Мар'яні вздовж долини річки Гауя, від якої парк бере свою назву. Парк знаходиться в Аматськом, Цесіськом, Інчукалнськом, Крімулдськом, Лігатненськом, Паргауйськом та Сігулдськом краї. На території національного парку лежать міста Сігулда, Цесіс і Лігатне, а на північному сході в декількох кілометрах від границь парку знаходиться місто Валмієра."
+                }
+            }
+        },
+        {
+            "id": "ea7ad8f6-7a58-40c3-aae9-b5bedbdaa324",
+            "name": "Riga Cathedral",
+            "description": "Riga Cathedral formally The Cathedral Church of Saint Mary, is the Evangelical Lutheran cathedral in Riga, Latvia. It is the seat of the Archbishop of Riga. The cathedral is one of the most recognizable landmarks in Latvia, and is featured in or the subject of paintings, photographs and television travelogues. Like all of the oldest churches of the city, it is known for its weathercock.",
+            "image": "https://www.latvia.travel/sites/default/files/styles/lightbox/public/tourism_sight/riga-cathedral-latvia-travel-domtony-hodgkinson.jpg",
+            "rating": [],
+            "translations": {
+                "en": {
+                    "name": "Riga Cathedral",
+                    "description": "Riga Cathedral formally The Cathedral Church of Saint Mary, is the Evangelical Lutheran cathedral in Riga, Latvia. It is the seat of the Archbishop of Riga. The cathedral is one of the most recognizable landmarks in Latvia, and is featured in or the subject of paintings, photographs and television travelogues. Like all of the oldest churches of the city, it is known for its weathercock."
+                },
+                "ru": {
+                    "name": "Домский собор",
+                    "description": "Рижский Домский собор — кафедральный собор города Риги, его символ и одна из главных достопримечательностей. Является крупнейшим средневековым храмом стран Балтии. Название собора происходит от латинских выражений — «Domus Dei» («Дом Бога») и «D.О. М.» (сокращение от Deo Optimo Maximo[en], «Всеблагому Величайшему Богу»). В настоящее время — главное церковное здание Евангелическо-Лютеранской Церкви Латвии. Наравне с церковью Святого Петра и собором Святого Иакова, является высотной доминантой Старой Риги и образующим градостроительным элементом старого города (в частности, ключевым зданием Домской площади). С 1991 года в ведении ЛЕЛЦ"
+                },
+                "uk": {
+                    "name": "Ризький собор",
+                    "description": "Ризький (Домський) собор — кафедральний собор Риги, є одним з символів міста, візитівкою країни. Будівництво собору розпочато в 1211 році. Він поклав початок романсько-готичному стилю будівництва з каменю та цегли. Головний храм Латвійської євангельсько-лютеранської церкви. Катедра лютеранського архієпископа Ризького."
+                }
+            }
+        }
+    ],
+    "translations": {
+        "en": {
+            "name": "Latvia",
+            "description": "Latvia, officially known as the Republic of Latvia, is a country in the Baltic region of Northern Europe. It is one of the Baltic states; and is bordered by Estonia to the north, Lithuania to the south, Russia to the east, Belarus to the southeast, and shares a maritime border with Sweden to the west. Latvia covers an area of 64,589 km2 (24,938 sq mi), with a population of 1.9 million. The country has a temperate seasonal climate. Its capital and largest city is Riga. Latvians belong to the ethno-linguistic group of the Balts; and speak Latvian, one of the only two surviving Baltic languages. Russians are a prominent minority in the country, at some 24% of the population."
+        },
+        "ru": {
+            "name": "Латвия",
+            "description": "Латвия, официальное название — Латвийская Республика, — государство в Северной Европе. По оценочным данным на 1 января 2021 года, население составило 1 893 700 человек (153-е место в мире). Территория — 64 589 км² (122-е место в мире). Протяжённость страны с севера на юг составляет 250 км, а с запада на восток — 450 км. Латвия граничит с Эстонией на севере, Россией — на востоке, с Белоруссией — на юго-востоке и Литвой — на юге. Подразделяется на 119 административно-территориальных единиц, 110 из которых являются краями и 9 — республиканскими городами, приравненными по статусу к краям. Столица — Рига. Государственный язык — латышский."
+        },
+        "uk": {
+            "name": "Латвія",
+            "description": "Ла́твія — держава в Північній Європі. Офіційна назва — Латві́йська Респу́бліка. Розташована на сході Балтійського моря, на північному сході Європейського союзу. Межує із Естонією, Литвою, Білоруссю і Росією. Займає більшу частину історичної Лівонії, що була заселена балтськими племенами і підкорена німецькими колоністами. У середньовіччі й ранньому часі перебувала під владою Лівонського ордену, Речі Посполитої, Швеції, Курляндського герцогства та Російської імперії. 18 листопада 1918 року проголосила незалежність, відокремившись від Росії."
+        }
+    }
+}
