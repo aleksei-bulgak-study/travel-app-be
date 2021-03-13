@@ -79,7 +79,6 @@ export default class CountryService {
 
   private changeCapitalTranslations(capital: Capital, locale: Locale): Capital {
     const translation = capital.translations ? capital.translations[locale] : null;
-
     if (translation) {
       capital.name = translation.name;
     }

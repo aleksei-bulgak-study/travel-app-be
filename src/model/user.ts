@@ -9,7 +9,7 @@ export interface User extends Document {
 const UserSchema: Schema = new Schema({
   username: { type: String, required: true, unique: true },
   password: { type: String, required: true },
-  logo: { type: String, required: true }
+  logo: { type: String, required: false }
 });
 
 export default mongoose.model<User>('users', UserSchema);
