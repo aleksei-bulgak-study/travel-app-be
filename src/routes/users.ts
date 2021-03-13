@@ -45,21 +45,25 @@ const UserRouter = (userService: UserService): Router => {
   router.post(
     '/:username',
     asyncMiddleware(async (request: Request, response: Response) => {
-      console.log(request.files)
-      const logoBuffer = request.files ? request.files['logo'] : undefined;
-      if (!logoBuffer || Array.isArray(logoBuffer)) {
-        throw new ServerError(400, 'Failed to process image upload');
-      }
-
       const { username } = request.params;
       if (!username) {
         throw new ServerError(400, 'Invalid username was provided');
       }
-      const user = await userService.getUser(username);
-      user.logo = logoBuffer.data.toString('base64');
-      await userService.updateUser(user);
+      const user = request.body as User;
+      if (username !== user.username) {
+        throw new ServerError(400, 'Invalid request provided');
+      }
 
-      response.status(200).json(user);
+      const userFromDB = await userService.getUser(user.username);
+
+      if (
+        userFromDB &&
+        userFromDB.username === user.username &&
+        userFromDB.password === user.password
+      ) {
+        response.status(200).json(userFromDB);
+      }
+      throw new ServerError(400, 'Invalid credentials were provided');
     })
   );
 
