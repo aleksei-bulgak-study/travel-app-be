@@ -32,6 +32,10 @@ const UserRouter = (userService: UserService): Router => {
     })
   );
 
+  router.get('/logout', (_: Request, response: Response) => {
+    return response.cookie('AUTH', '', { httpOnly: false, maxAge: 0, sameSite: 'none', secure: true });
+  });
+
   router.get(
     '/:username',
     asyncMiddleware(async (request: Request, response: Response) => {
