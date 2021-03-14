@@ -23,7 +23,7 @@ const UserRouter = (userService: UserService): Router => {
     asyncMiddleware(async (request: Request, response: Response) => {
       const { username } = request.params;
       const user = await userService.getUser('' + username);
-      response.status(200).json(user);
+      generateAuthCookie(response, user).status(200).json(user);
     })
   );
 
