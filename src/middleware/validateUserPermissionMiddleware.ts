@@ -1,6 +1,5 @@
 import { NextFunction, Request, response, Response } from "express";
 import jwt, { JsonWebTokenError } from "jsonwebtoken";
-import user from "src/model/user";
 import ServerError from "../model/serverError";
 import { Rating } from "../model/sight";
 
