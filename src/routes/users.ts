@@ -4,7 +4,7 @@ import asyncMiddleware from '../middleware/asyncMiddleware';
 import ServerError from '../model/serverError';
 import { UserService } from '../service';
 import jwt from 'jsonwebtoken';
-
+import validateUserPermissions from '../middleware/validateUserPermissionMiddleware';
 
 const UserRouter = (userService: UserService): Router => {
   const router = Router();
@@ -80,9 +80,23 @@ const UserRouter = (userService: UserService): Router => {
     })
   );
 
+  router.get(
+    '/autologin',
+    validateUserPermissions(SECRET),
+    asyncMiddleware(async (_: Request, response: Response) => {
+      const username = response.getHeader('USERNAME');
+      if (!!username) {
+        const user = await userService.getUser('' + username);
+        response.status(200).json(user);
+      } else {
+        throw new ServerError(401, 'Invalid credentials');
+      }
+    })
+  );
+
   const generateAuthCookie = (response: Response, user: User): Response => {
     const token = jwt.sign({ username: user.username }, SECRET);
-    return response.cookie('AUTH', token, { httpOnly: false, sameSite: 'none', secure: true });
+    return response.cookie('AUTH', token, { httpOnly: false, maxAge: 3600, sameSite: 'none', secure: true });
   };
 
   return router;
