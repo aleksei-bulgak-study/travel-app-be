@@ -33,7 +33,7 @@ const SightRouter = (countryService: CountryService, sightsService: SightsServic
     asyncMiddleware(async (request: Request, response: Response) => {
       const { countryCode, sightId } = request.params;
       const data = request.body as Rating;
-      const country = await countryService.getCountryById(countryCode, 'en');
+      const country = await countryService.getFullCountryById(countryCode);
       const sight = country.sights.find((sight) => sight.id === sightId);
       await sightsService.rateSight(sight, data);
       await countryService.updateCountry(country);

@@ -34,6 +34,15 @@ export default class CountryService {
     return this.convertBasedOnLocale(country, locale);
   }
 
+  async getFullCountryById(isoCode = ''): Promise<Country> {
+    const country = await CountrySchema.findOne({ isoCode }).exec();
+    if (country === null) {
+      throw new ServerError(404, `Country with specified isoCode ${isoCode} was not found`);
+    }
+    return country;
+  }
+
+
   async updateCountry(country: Country): Promise<Country> {
     await CountrySchema.updateOne({_id: country._id}, country).exec();
     return country;
