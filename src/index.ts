@@ -1,7 +1,7 @@
 import express, { Request, Response } from 'express';
 import fileUpload from 'express-fileupload';
 import cors from 'cors';
-
+import cookieParser from 'cookie-parser';
 import configs from './config';
 import errorHandler from './middleware/errorHandlingMiddleware';
 
@@ -20,6 +20,7 @@ app.use(cors({
   optionsSuccessStatus: 200 // some legacy browsers (IE11, various SmartTVs) choke on 204
 }))
 app.use(express.json());
+app.use(cookieParser());
 app.use(fileUpload());
 app.use(SwaggerRouter);
 

@@ -3,9 +3,12 @@ import { User } from '../model/user';
 import asyncMiddleware from '../middleware/asyncMiddleware';
 import ServerError from '../model/serverError';
 import { UserService } from '../service';
+import jwt from 'jsonwebtoken';
+
 
 const UserRouter = (userService: UserService): Router => {
   const router = Router();
+  const SECRET = process.env['SECRET'] || '';
 
   router.get(
     '/',
@@ -61,7 +64,7 @@ const UserRouter = (userService: UserService): Router => {
         userFromDB.username === user.username &&
         userFromDB.password === user.password
       ) {
-        response.status(200).json(userFromDB);
+        generateAuthCookie(response, userFromDB).status(200).json(userFromDB);
       }
       throw new ServerError(400, 'Invalid credentials were provided');
     })
@@ -73,9 +76,14 @@ const UserRouter = (userService: UserService): Router => {
       const user = request.body as User;
       const createdUser = await userService.createUser(user);
 
-      response.status(201).json(createdUser);
+      generateAuthCookie(response, createdUser).status(201).json(createdUser);
     })
   );
+
+  const generateAuthCookie = (response: Response, user: User): Response => {
+    const token = jwt.sign({ username: user.username }, SECRET);
+    return response.cookie('AUTH', token, { maxAge: 900000, httpOnly: true });
+  };
 
   return router;
 };
