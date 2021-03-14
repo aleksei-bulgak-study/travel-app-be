@@ -16,9 +16,10 @@ const userService = new UserService();
 
 const app = express();
 app.use(cors({
-  origin: '*',
-  optionsSuccessStatus: 200 // some legacy browsers (IE11, various SmartTVs) choke on 204
-}))
+  origin: ['http://localhost:3000', 'https://natein-travel-app.netlify.app/', 'https://natein.github.io', 'http://localhost:3001'],
+  optionsSuccessStatus: 200, // some legacy browsers (IE11, various SmartTVs) choke on 204
+  credentials: true
+}));
 app.use(express.json());
 app.use(cookieParser());
 app.use(fileUpload());
