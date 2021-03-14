@@ -82,7 +82,7 @@ const UserRouter = (userService: UserService): Router => {
 
   const generateAuthCookie = (response: Response, user: User): Response => {
     const token = jwt.sign({ username: user.username }, SECRET);
-    return response.cookie('AUTH', token);
+    return response.cookie('AUTH', token, { httpOnly: false });
   };
 
   return router;
