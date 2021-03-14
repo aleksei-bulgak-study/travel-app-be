@@ -33,7 +33,7 @@ const UserRouter = (userService: UserService): Router => {
   );
 
   router.get('/logout', (_: Request, response: Response) => {
-    return response.cookie('AUTH', '', { httpOnly: false, maxAge: 0, sameSite: 'none', secure: true });
+    response.cookie('AUTH', '', { httpOnly: false, maxAge: 0, sameSite: 'none', secure: true }).status(200).send();
   });
 
   router.get(
